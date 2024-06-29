@@ -1,0 +1,640 @@
+当前路段：路段1
+2024-05-31 18:22:48,032|Class: D10, Confidence: 0.31
+2024-05-31 18:22:52,076|Class: D10, Confidence: 0.28
+2024-05-31 18:22:53,085|Class: D10, Confidence: 0.26
+2024-05-31 18:22:55,119|Class: D10, Confidence: 0.29
+2024-05-31 18:22:55,623|Class: D10, Confidence: 0.26
+2024-05-31 18:23:00,135|Class: D10, Confidence: 0.36
+2024-05-31 18:23:01,138|Class: D10, Confidence: 0.26
+2024-05-31 18:23:04,248|Class: D10, Confidence: 0.32
+2024-05-31 18:23:25,845|Class: D10, Confidence: 0.27
+2024-05-31 18:23:27,850|Class: D10, Confidence: 0.26
+2024-05-31 18:23:28,852|Class: D10, Confidence: 0.31
+2024-05-31 18:23:29,354|Class: D10, Confidence: 0.28
+2024-05-31 18:23:29,856|Class: D10, Confidence: 0.33
+2024-05-31 18:23:30,357|Class: D10, Confidence: 0.38
+2024-05-31 18:23:30,860|Class: D10, Confidence: 0.34
+2024-05-31 18:23:31,862|Class: D10, Confidence: 0.32
+2024-05-31 18:23:32,364|Class: D10, Confidence: 0.30
+2024-05-31 18:23:32,866|Class: D10, Confidence: 0.33
+2024-05-31 18:23:33,368|Class: D10, Confidence: 0.27
+2024-05-31 18:23:34,872|Class: D10, Confidence: 0.29
+2024-05-31 18:23:35,876|Class: D10, Confidence: 0.33
+2024-05-31 18:23:36,380|Class: D10, Confidence: 0.28
+2024-05-31 18:23:36,886|Class: D10, Confidence: 0.32
+2024-05-31 18:23:38,393|Class: D10, Confidence: 0.41
+2024-05-31 18:23:39,433|Class: D10, Confidence: 0.30
+2024-05-31 18:23:44,179|Class: D10, Confidence: 0.25
+2024-05-31 18:23:46,737|Class: D10, Confidence: 0.30
+2024-05-31 18:23:47,740|Class: D10, Confidence: 0.26
+2024-05-31 18:26:14,798|Class: D10, Confidence: 0.25
+2024-05-31 18:26:15,306|Class: D10, Confidence: 0.30
+2024-05-31 18:26:18,316|Class: D10, Confidence: 0.31
+2024-05-31 18:26:20,405|Class: D10, Confidence: 0.25
+2024-05-31 18:26:23,011|Class: D10, Confidence: 0.29
+2024-05-31 18:26:25,076|Class: D10, Confidence: 0.35
+2024-05-31 18:26:25,577|Class: D10, Confidence: 0.39
+2024-05-31 18:26:26,081|Class: D50, Confidence: 0.35
+Class: D10, Confidence: 0.31
+2024-05-31 18:26:26,586|Class: D50, Confidence: 0.31
+2024-05-31 18:26:27,091|Class: D10, Confidence: 0.33
+2024-05-31 18:26:27,593|Class: D10, Confidence: 0.28
+2024-05-31 18:26:29,138|Class: D10, Confidence: 0.26
+2024-05-31 18:26:30,147|Class: D10, Confidence: 0.26
+2024-05-31 18:26:31,662|Class: D10, Confidence: 0.26
+2024-05-31 18:26:35,847|Class: D10, Confidence: 0.29
+2024-05-31 18:28:28,742|Class: D10, Confidence: 0.29
+2024-05-31 18:28:31,754|Class: D10, Confidence: 0.26
+2024-05-31 18:28:33,306|Class: D10, Confidence: 0.30
+2024-05-31 18:28:35,356|Class: D10, Confidence: 0.30
+2024-05-31 18:28:43,872|Class: D10, Confidence: 0.28
+2024-05-31 18:28:44,874|Class: D10, Confidence: 0.26
+2024-05-31 18:28:45,377|Class: D10, Confidence: 0.29
+2024-05-31 18:28:48,418|Class: D10, Confidence: 0.32
+2024-05-31 18:28:48,965|Class: D10, Confidence: 0.29
+2024-05-31 18:28:50,052|Class: D10, Confidence: 0.29
+2024-05-31 18:28:51,062|Class: D10, Confidence: 0.33
+2024-05-31 18:28:51,564|Class: D10, Confidence: 0.31
+2024-05-31 18:28:52,067|Class: D10, Confidence: 0.28
+2024-05-31 18:28:52,569|Class: D10, Confidence: 0.44
+2024-05-31 18:28:53,072|Class: D10, Confidence: 0.30
+2024-05-31 22:20:31,283|Class: D10, Confidence: 0.33
+2024-05-31 22:55:38,945|Class: D00, Confidence: 0.28
+2024-05-31 22:55:40,476|Class: D00, Confidence: 0.43
+2024-05-31 22:55:40,979|Class: D00, Confidence: 0.44
+2024-05-31 22:55:41,526|Class: D00, Confidence: 0.48
+2024-05-31 22:55:42,027|Class: D00, Confidence: 0.29
+Class: D00, Confidence: 0.25
+2024-05-31 22:55:42,529|Class: D00, Confidence: 0.33
+2024-05-31 22:55:42,530|Class: D00, Confidence: 0.29
+2024-05-31 22:55:43,032|Class: D00, Confidence: 0.26
+2024-05-31 22:55:44,034|Class: D00, Confidence: 0.29
+2024-05-31 22:55:44,536|Class: D00, Confidence: 0.29
+2024-05-31 22:55:45,037|Class: D00, Confidence: 0.26
+2024-05-31 22:55:59,224|Class: D40, Confidence: 0.27
+2024-05-31 22:55:59,808|Class: D44, Confidence: 0.50
+2024-05-31 22:56:40,967|Class: D20, Confidence: 0.25
+2024-05-31 22:56:41,476|Class: D20, Confidence: 0.28
+2024-05-31 22:56:41,978|Class: D20, Confidence: 0.45
+2024-05-31 22:56:42,480|Class: D20, Confidence: 0.52
+2024-05-31 22:56:43,026|Class: D20, Confidence: 0.54
+2024-05-31 22:56:43,527|Class: D20, Confidence: 0.65
+2024-05-31 22:56:43,529|Class: D20, Confidence: 0.73
+2024-05-31 22:56:44,032|Class: D20, Confidence: 0.77
+2024-05-31 22:56:44,534|Class: D20, Confidence: 0.79
+2024-05-31 22:56:45,035|Class: D20, Confidence: 0.77
+2024-05-31 22:56:45,537|Class: D20, Confidence: 0.78
+2024-05-31 22:56:46,039|Class: D20, Confidence: 0.78
+2024-05-31 22:56:46,543|Class: D20, Confidence: 0.76
+2024-05-31 22:56:47,110|Class: D20, Confidence: 0.76
+2024-05-31 22:56:47,612|Class: D20, Confidence: 0.74
+2024-05-31 22:56:47,613|Class: D20, Confidence: 0.69
+2024-05-31 22:56:48,114|Class: D20, Confidence: 0.56
+2024-05-31 22:56:48,616|Class: D20, Confidence: 0.45
+2024-05-31 22:56:49,118|Class: D20, Confidence: 0.36
+2024-05-31 22:56:49,620|Class: D20, Confidence: 0.28
+2024-05-31 22:56:50,122|Class: D00, Confidence: 0.28
+2024-05-31 22:56:50,624|Class: D00, Confidence: 0.25
+2024-05-31 22:56:55,720|Class: D20, Confidence: 0.27
+2024-05-31 22:56:56,222|Class: D20, Confidence: 0.27
+2024-05-31 22:56:58,293|Class: D20, Confidence: 0.25
+2024-05-31 22:56:58,294|Class: D20, Confidence: 0.30
+2024-05-31 22:56:58,796|Class: D20, Confidence: 0.32
+2024-05-31 22:56:59,298|Class: D20, Confidence: 0.29
+2024-05-31 22:56:59,801|Class: D20, Confidence: 0.30
+2024-05-31 22:57:00,303|Class: D20, Confidence: 0.25
+2024-05-31 22:57:00,805|Class: D20, Confidence: 0.38
+2024-05-31 22:57:01,307|Class: D20, Confidence: 0.35
+2024-05-31 22:57:01,875|Class: D20, Confidence: 0.40
+Class: D20, Confidence: 0.27
+2024-05-31 22:57:02,378|Class: D20, Confidence: 0.41
+2024-05-31 22:57:02,378|Class: D20, Confidence: 0.43
+2024-05-31 22:57:02,880|Class: D20, Confidence: 0.40
+Class: D20, Confidence: 0.26
+2024-05-31 22:57:03,382|Class: D20, Confidence: 0.43
+Class: D20, Confidence: 0.32
+2024-05-31 22:57:03,885|Class: D20, Confidence: 0.37
+Class: D20, Confidence: 0.31
+2024-05-31 22:57:04,387|Class: D20, Confidence: 0.38
+2024-05-31 22:57:04,889|Class: D20, Confidence: 0.31
+2024-05-31 22:57:05,391|Class: D20, Confidence: 0.40
+2024-05-31 22:57:10,014|Class: D10, Confidence: 0.27
+2024-05-31 22:57:10,516|Class: D10, Confidence: 0.39
+2024-05-31 22:57:10,517|Class: D10, Confidence: 0.46
+2024-05-31 22:57:11,019|Class: D10, Confidence: 0.45
+2024-05-31 22:57:11,520|Class: D10, Confidence: 0.43
+2024-05-31 22:57:12,022|Class: D10, Confidence: 0.48
+2024-05-31 22:57:12,526|Class: D10, Confidence: 0.41
+2024-05-31 22:57:13,028|Class: D10, Confidence: 0.46
+2024-05-31 22:57:13,530|Class: D10, Confidence: 0.39
+2024-05-31 22:57:14,081|Class: D10, Confidence: 0.35
+2024-05-31 22:57:14,583|Class: D10, Confidence: 0.40
+2024-05-31 22:57:14,584|Class: D10, Confidence: 0.33
+Class: D20, Confidence: 0.31
+2024-05-31 22:57:15,085|Class: D20, Confidence: 0.43
+Class: D10, Confidence: 0.26
+2024-05-31 22:57:15,587|Class: D20, Confidence: 0.47
+Class: D10, Confidence: 0.31
+Class: D40, Confidence: 0.30
+2024-05-31 22:57:16,089|Class: D20, Confidence: 0.55
+2024-05-31 22:57:16,591|Class: D20, Confidence: 0.61
+2024-05-31 22:57:17,093|Class: D20, Confidence: 0.71
+2024-05-31 22:57:17,595|Class: D20, Confidence: 0.74
+2024-05-31 22:57:18,154|Class: D20, Confidence: 0.74
+2024-05-31 22:57:18,656|Class: D20, Confidence: 0.74
+2024-05-31 22:57:18,657|Class: D20, Confidence: 0.71
+2024-05-31 22:57:19,159|Class: D20, Confidence: 0.76
+2024-05-31 22:57:19,661|Class: D20, Confidence: 0.29
+2024-05-31 22:57:20,163|Class: D20, Confidence: 0.45
+2024-05-31 22:57:20,665|Class: D20, Confidence: 0.56
+2024-05-31 22:57:21,166|Class: D20, Confidence: 0.34
+2024-05-31 22:57:21,668|Class: D20, Confidence: 0.26
+2024-05-31 22:57:23,735|Class: D00, Confidence: 0.32
+2024-05-31 22:57:26,811|Class: D00, Confidence: 0.37
+2024-05-31 22:57:29,883|Class: D20, Confidence: 0.32
+2024-05-31 22:57:30,386|Class: D20, Confidence: 0.28
+2024-05-31 22:57:30,889|Class: D20, Confidence: 0.35
+2024-05-31 22:57:31,392|Class: D20, Confidence: 0.33
+2024-05-31 22:57:32,450|Class: D20, Confidence: 0.27
+2024-05-31 22:57:32,952|Class: D20, Confidence: 0.28
+2024-05-31 22:57:33,955|Class: D40, Confidence: 0.59
+2024-05-31 22:57:34,456|Class: D40, Confidence: 0.47
+2024-05-31 22:57:34,958|Class: D40, Confidence: 0.65
+2024-05-31 22:57:39,557|Class: D20, Confidence: 0.31
+2024-05-31 22:57:40,059|Class: D20, Confidence: 0.45
+2024-05-31 22:57:40,060|Class: D20, Confidence: 0.43
+Class: D40, Confidence: 0.26
+2024-05-31 22:57:40,562|Class: D20, Confidence: 0.60
+2024-05-31 22:57:41,064|Class: D20, Confidence: 0.58
+2024-05-31 22:57:41,565|Class: D20, Confidence: 0.63
+2024-05-31 22:57:42,067|Class: D20, Confidence: 0.59
+2024-05-31 22:57:42,570|Class: D20, Confidence: 0.57
+2024-05-31 22:57:43,072|Class: D20, Confidence: 0.51
+2024-05-31 22:57:43,603|Class: D20, Confidence: 0.54
+2024-05-31 22:57:44,105|Class: D20, Confidence: 0.60
+2024-05-31 22:57:44,107|Class: D20, Confidence: 0.48
+2024-05-31 22:57:44,608|Class: D20, Confidence: 0.45
+2024-05-31 22:57:45,111|Class: D20, Confidence: 0.36
+2024-05-31 22:57:46,114|Class: D20, Confidence: 0.27
+2024-05-31 22:57:47,671|Class: D20, Confidence: 0.35
+Class: D20, Confidence: 0.28
+2024-05-31 22:57:48,173|Class: D20, Confidence: 0.29
+Class: D20, Confidence: 0.27
+2024-05-31 22:57:51,205|Class: D40, Confidence: 0.33
+2024-05-31 22:57:51,706|Class: D40, Confidence: 0.28
+2024-05-31 22:57:52,208|Class: D20, Confidence: 0.39
+2024-05-31 22:57:52,710|Class: D20, Confidence: 0.45
+2024-05-31 22:57:53,212|Class: D20, Confidence: 0.46
+2024-05-31 22:57:53,713|Class: D20, Confidence: 0.54
+2024-05-31 22:57:54,215|Class: D20, Confidence: 0.58
+2024-05-31 22:57:54,791|Class: D20, Confidence: 0.56
+2024-05-31 22:57:55,293|Class: D20, Confidence: 0.59
+2024-05-31 22:57:55,794|Class: D20, Confidence: 0.66
+2024-05-31 22:57:55,795|Class: D20, Confidence: 0.59
+2024-05-31 22:57:56,300|Class: D20, Confidence: 0.67
+2024-05-31 22:57:56,803|Class: D20, Confidence: 0.70
+2024-05-31 22:57:57,304|Class: D20, Confidence: 0.71
+2024-05-31 22:57:57,806|Class: D20, Confidence: 0.68
+2024-05-31 22:57:58,307|Class: D20, Confidence: 0.68
+2024-05-31 22:57:58,879|Class: D20, Confidence: 0.68
+2024-05-31 22:57:59,382|Class: D20, Confidence: 0.66
+2024-05-31 22:57:59,383|Class: D20, Confidence: 0.64
+2024-05-31 22:57:59,884|Class: D20, Confidence: 0.53
+2024-05-31 22:58:00,386|Class: D20, Confidence: 0.47
+Class: D20, Confidence: 0.25
+2024-05-31 22:58:00,888|Class: D20, Confidence: 0.42
+2024-05-31 22:58:01,391|Class: D20, Confidence: 0.30
+2024-05-31 22:58:01,894|Class: D20, Confidence: 0.26
+2024-05-31 22:58:02,396|Class: D50, Confidence: 0.37
+2024-05-31 22:58:02,955|Class: D50, Confidence: 0.29
+2024-05-31 22:58:03,456|Class: D50, Confidence: 0.43
+2024-05-31 22:58:19,204|Class: D40, Confidence: 0.30
+2024-05-31 22:59:50,991|Class: D20, Confidence: 0.30
+2024-05-31 22:59:51,493|Class: D20, Confidence: 0.48
+2024-05-31 22:59:51,494|Class: D20, Confidence: 0.48
+2024-05-31 22:59:51,996|Class: D20, Confidence: 0.62
+2024-05-31 22:59:52,498|Class: D20, Confidence: 0.57
+2024-05-31 22:59:53,001|Class: D20, Confidence: 0.65
+2024-05-31 22:59:53,502|Class: D20, Confidence: 0.68
+2024-05-31 22:59:54,004|Class: D20, Confidence: 0.70
+2024-05-31 22:59:54,577|Class: D20, Confidence: 0.74
+Class: D20, Confidence: 0.38
+2024-05-31 22:59:55,079|Class: D20, Confidence: 0.71
+Class: D20, Confidence: 0.41
+2024-05-31 22:59:55,080|Class: D20, Confidence: 0.68
+Class: D20, Confidence: 0.36
+2024-05-31 22:59:55,581|Class: D20, Confidence: 0.58
+Class: D20, Confidence: 0.41
+2024-05-31 22:59:56,084|Class: D20, Confidence: 0.70
+Class: D20, Confidence: 0.38
+2024-05-31 22:59:56,585|Class: D20, Confidence: 0.63
+Class: D20, Confidence: 0.37
+2024-05-31 22:59:57,087|Class: D20, Confidence: 0.57
+Class: D20, Confidence: 0.37
+2024-05-31 22:59:57,590|Class: D20, Confidence: 0.49
+Class: D20, Confidence: 0.29
+2024-05-31 22:59:58,162|Class: D20, Confidence: 0.29
+Class: D20, Confidence: 0.26
+2024-05-31 22:59:58,664|Class: D20, Confidence: 0.32
+Class: D20, Confidence: 0.31
+2024-05-31 22:59:58,665|Class: D20, Confidence: 0.25
+2024-05-31 22:59:59,167|Class: D00, Confidence: 0.26
+2024-05-31 23:00:00,169|Class: D44, Confidence: 0.34
+2024-05-31 23:00:00,672|Class: D44, Confidence: 0.29
+2024-05-31 23:00:02,732|Class: D40, Confidence: 0.26
+2024-05-31 23:00:06,311|Class: D20, Confidence: 0.39
+2024-05-31 23:00:06,814|Class: D20, Confidence: 0.38
+2024-05-31 23:00:07,316|Class: D20, Confidence: 0.46
+2024-05-31 23:00:07,818|Class: D20, Confidence: 0.56
+2024-05-31 23:00:08,320|Class: D20, Confidence: 0.61
+2024-05-31 23:00:08,849|Class: D20, Confidence: 0.59
+2024-05-31 23:00:09,350|Class: D20, Confidence: 0.64
+2024-05-31 23:00:09,853|Class: D20, Confidence: 0.73
+2024-05-31 23:00:09,853|Class: D20, Confidence: 0.74
+2024-05-31 23:00:10,361|Class: D20, Confidence: 0.75
+2024-05-31 23:00:10,864|Class: D20, Confidence: 0.72
+2024-05-31 23:00:11,366|Class: D20, Confidence: 0.72
+2024-05-31 23:00:11,868|Class: D20, Confidence: 0.65
+2024-05-31 23:00:12,369|Class: D20, Confidence: 0.67
+2024-05-31 23:00:12,942|Class: D20, Confidence: 0.63
+2024-05-31 23:00:13,444|Class: D20, Confidence: 0.56
+2024-05-31 23:00:13,445|Class: D20, Confidence: 0.53
+2024-05-31 23:00:13,947|Class: D20, Confidence: 0.44
+2024-05-31 23:00:14,450|Class: D20, Confidence: 0.43
+2024-05-31 23:00:14,954|Class: D20, Confidence: 0.40
+2024-05-31 23:00:15,456|Class: D20, Confidence: 0.26
+2024-05-31 23:00:21,546|Class: D20, Confidence: 0.35
+2024-05-31 23:00:22,048|Class: D20, Confidence: 0.49
+2024-05-31 23:00:22,629|Class: D20, Confidence: 0.64
+2024-05-31 23:00:23,131|Class: D20, Confidence: 0.62
+2024-05-31 23:00:23,132|Class: D20, Confidence: 0.55
+2024-05-31 23:00:23,633|Class: D20, Confidence: 0.50
+2024-05-31 23:00:24,135|Class: D20, Confidence: 0.53
+2024-05-31 23:00:24,637|Class: D20, Confidence: 0.60
+2024-05-31 23:00:25,139|Class: D20, Confidence: 0.68
+2024-05-31 23:00:25,640|Class: D20, Confidence: 0.72
+2024-05-31 23:00:26,142|Class: D20, Confidence: 0.74
+2024-05-31 23:00:26,692|Class: D20, Confidence: 0.75
+2024-05-31 23:00:27,194|Class: D20, Confidence: 0.74
+2024-05-31 23:00:27,696|Class: D20, Confidence: 0.74
+2024-05-31 23:00:27,697|Class: D20, Confidence: 0.72
+2024-05-31 23:00:28,199|Class: D20, Confidence: 0.64
+2024-05-31 23:00:28,701|Class: D20, Confidence: 0.68
+2024-05-31 23:00:29,203|Class: D20, Confidence: 0.55
+2024-05-31 23:00:29,704|Class: D20, Confidence: 0.46
+2024-05-31 23:00:30,206|Class: D20, Confidence: 0.40
+2024-05-31 23:00:30,748|Class: D20, Confidence: 0.34
+2024-05-31 23:00:31,250|Class: D20, Confidence: 0.29
+2024-05-31 23:00:35,823|Class: D10, Confidence: 0.38
+2024-05-31 23:00:36,324|Class: D10, Confidence: 0.29
+2024-05-31 23:00:37,834|Class: D44, Confidence: 0.30
+2024-05-31 23:00:37,836|Class: D44, Confidence: 0.37
+2024-05-31 23:00:38,337|Class: D44, Confidence: 0.48
+Class: D20, Confidence: 0.34
+2024-05-31 23:00:38,839|Class: D20, Confidence: 0.42
+Class: D44, Confidence: 0.36
+2024-05-31 23:00:39,341|Class: D20, Confidence: 0.41
+Class: D44, Confidence: 0.31
+2024-05-31 23:00:39,843|Class: D20, Confidence: 0.53
+Class: D44, Confidence: 0.33
+2024-05-31 23:00:40,345|Class: D20, Confidence: 0.63
+Class: D44, Confidence: 0.35
+2024-05-31 23:00:40,847|Class: D20, Confidence: 0.68
+Class: D44, Confidence: 0.35
+2024-05-31 23:00:41,349|Class: D20, Confidence: 0.68
+Class: D44, Confidence: 0.28
+2024-05-31 23:00:41,911|Class: D20, Confidence: 0.67
+Class: D44, Confidence: 0.32
+2024-05-31 23:00:42,413|Class: D20, Confidence: 0.65
+Class: D44, Confidence: 0.32
+2024-05-31 23:00:42,414|Class: D20, Confidence: 0.66
+Class: D44, Confidence: 0.26
+2024-05-31 23:00:42,915|Class: D20, Confidence: 0.62
+2024-05-31 23:00:43,418|Class: D20, Confidence: 0.53
+2024-05-31 23:00:43,919|Class: D20, Confidence: 0.47
+2024-05-31 23:00:44,422|Class: D20, Confidence: 0.37
+2024-05-31 23:00:44,923|Class: D20, Confidence: 0.39
+2024-05-31 23:00:45,425|Class: D20, Confidence: 0.41
+2024-05-31 23:00:45,973|Class: D20, Confidence: 0.28
+2024-05-31 23:00:46,474|Class: D20, Confidence: 0.33
+2024-05-31 23:00:46,976|Class: D20, Confidence: 0.35
+2024-05-31 23:00:47,478|Class: D20, Confidence: 0.39
+2024-05-31 23:00:47,980|Class: D20, Confidence: 0.26
+2024-05-31 23:00:48,482|Class: D20, Confidence: 0.38
+2024-05-31 23:00:48,984|Class: D20, Confidence: 0.42
+Class: D20, Confidence: 0.29
+2024-05-31 23:00:49,487|Class: D20, Confidence: 0.42
+Class: D20, Confidence: 0.33
+2024-05-31 23:00:50,057|Class: D20, Confidence: 0.36
+Class: D20, Confidence: 0.25
+2024-05-31 23:00:50,558|Class: D20, Confidence: 0.27
+2024-05-31 23:00:58,664|Class: D20, Confidence: 0.30
+2024-05-31 23:00:59,165|Class: D40, Confidence: 0.25
+2024-05-31 23:00:59,667|Class: D40, Confidence: 0.26
+2024-05-31 23:01:01,724|Class: D40, Confidence: 0.26
+Class: D40, Confidence: 0.25
+2024-05-31 23:01:02,227|Class: D20, Confidence: 0.31
+2024-05-31 23:01:02,228|Class: D20, Confidence: 0.29
+2024-05-31 23:01:02,729|Class: D40, Confidence: 0.29
+Class: D40, Confidence: 0.26
+2024-05-31 23:01:03,231|Class: D20, Confidence: 0.33
+Class: D40, Confidence: 0.29
+2024-05-31 23:01:03,733|Class: D20, Confidence: 0.34
+2024-05-31 23:01:04,235|Class: D20, Confidence: 0.26
+2024-05-31 23:01:04,737|Class: D20, Confidence: 0.33
+2024-05-31 23:01:05,240|Class: D20, Confidence: 0.35
+2024-05-31 23:01:05,799|Class: D20, Confidence: 0.42
+2024-05-31 23:01:06,301|Class: D20, Confidence: 0.46
+2024-05-31 23:01:06,802|Class: D20, Confidence: 0.48
+2024-05-31 23:01:06,803|Class: D20, Confidence: 0.50
+2024-05-31 23:01:07,305|Class: D20, Confidence: 0.57
+2024-05-31 23:01:07,807|Class: D20, Confidence: 0.54
+2024-05-31 23:01:08,309|Class: D20, Confidence: 0.48
+2024-05-31 23:01:08,811|Class: D20, Confidence: 0.39
+2024-05-31 23:01:09,313|Class: D20, Confidence: 0.40
+2024-05-31 23:01:09,814|Class: D20, Confidence: 0.35
+Class: D20, Confidence: 0.26
+2024-05-31 23:01:10,367|Class: D20, Confidence: 0.32
+Class: D20, Confidence: 0.29
+2024-05-31 23:01:10,869|Class: D20, Confidence: 0.32
+Class: D20, Confidence: 0.27
+2024-05-31 23:01:11,370|Class: D20, Confidence: 0.40
+2024-05-31 23:01:11,371|Class: D20, Confidence: 0.34
+2024-05-31 23:01:11,873|Class: D20, Confidence: 0.31
+2024-05-31 23:01:12,376|Class: D20, Confidence: 0.29
+2024-05-31 23:01:13,379|Class: D20, Confidence: 0.30
+2024-05-31 23:04:54,024|Class: D20, Confidence: 0.63
+2024-05-31 23:04:55,110|Class: D20, Confidence: 0.64
+2024-05-31 23:04:55,611|Class: D20, Confidence: 0.65
+Class: D20, Confidence: 0.26
+2024-05-31 23:04:56,113|Class: D20, Confidence: 0.66
+2024-05-31 23:04:56,615|Class: D20, Confidence: 0.65
+Class: D20, Confidence: 0.27
+2024-05-31 23:04:57,117|Class: D20, Confidence: 0.66
+Class: D20, Confidence: 0.25
+2024-05-31 23:04:57,619|Class: D20, Confidence: 0.66
+2024-05-31 23:04:58,124|Class: D20, Confidence: 0.67
+Class: D20, Confidence: 0.27
+2024-05-31 23:04:58,626|Class: D20, Confidence: 0.68
+2024-05-31 23:04:59,128|Class: D20, Confidence: 0.62
+2024-05-31 23:04:59,630|Class: D20, Confidence: 0.65
+2024-05-31 23:05:00,206|Class: D20, Confidence: 0.70
+2024-05-31 23:05:00,734|Class: D20, Confidence: 0.78
+2024-05-31 23:05:01,236|Class: D20, Confidence: 0.79
+2024-05-31 23:05:01,236|Class: D20, Confidence: 0.83
+2024-05-31 23:05:01,740|Class: D20, Confidence: 0.81
+2024-05-31 23:05:02,242|Class: D20, Confidence: 0.81
+2024-05-31 23:05:02,744|Class: D20, Confidence: 0.80
+2024-05-31 23:05:03,245|Class: D20, Confidence: 0.80
+2024-05-31 23:05:05,140|Class: D20, Confidence: 0.81
+2024-05-31 23:05:05,642|Class: D20, Confidence: 0.77
+2024-05-31 23:05:05,643|Class: D20, Confidence: 0.72
+2024-05-31 23:05:06,144|Class: D20, Confidence: 0.66
+Class: D20, Confidence: 0.28
+2024-05-31 23:05:06,646|Class: D20, Confidence: 0.53
+2024-05-31 23:05:13,714|Class: D20, Confidence: 0.26
+2024-05-31 23:05:14,215|Class: D20, Confidence: 0.35
+2024-05-31 23:05:14,717|Class: D20, Confidence: 0.36
+2024-05-31 23:05:15,220|Class: D20, Confidence: 0.49
+2024-05-31 23:05:15,722|Class: D20, Confidence: 0.51
+2024-05-31 23:05:16,224|Class: D20, Confidence: 0.61
+2024-05-31 23:05:16,790|Class: D20, Confidence: 0.49
+2024-05-31 23:05:17,291|Class: D20, Confidence: 0.60
+2024-05-31 23:05:17,794|Class: D20, Confidence: 0.56
+2024-05-31 23:05:17,795|Class: D20, Confidence: 0.54
+2024-05-31 23:05:18,297|Class: D20, Confidence: 0.53
+2024-05-31 23:05:18,799|Class: D20, Confidence: 0.61
+2024-05-31 23:05:19,301|Class: D20, Confidence: 0.48
+2024-05-31 23:05:19,802|Class: D20, Confidence: 0.50
+2024-05-31 23:05:20,304|Class: D20, Confidence: 0.30
+2024-05-31 23:05:20,879|Class: D20, Confidence: 0.34
+2024-05-31 23:05:27,022|Class: D10, Confidence: 0.32
+2024-05-31 23:05:31,158|Class: D20, Confidence: 0.34
+2024-05-31 23:05:31,660|Class: D20, Confidence: 0.48
+2024-05-31 23:05:32,162|Class: D20, Confidence: 0.67
+2024-05-31 23:05:32,663|Class: D20, Confidence: 0.77
+2024-05-31 23:05:33,165|Class: D20, Confidence: 0.76
+2024-05-31 23:05:33,697|Class: D20, Confidence: 0.73
+2024-05-31 23:05:34,198|Class: D20, Confidence: 0.75
+2024-05-31 23:05:34,699|Class: D20, Confidence: 0.72
+Class: D20, Confidence: 0.36
+2024-05-31 23:05:34,702|Class: D20, Confidence: 0.67
+Class: D20, Confidence: 0.37
+2024-05-31 23:05:35,204|Class: D20, Confidence: 0.62
+Class: D20, Confidence: 0.34
+2024-05-31 23:05:35,705|Class: D20, Confidence: 0.60
+2024-05-31 23:05:36,208|Class: D20, Confidence: 0.49
+2024-05-31 23:05:36,709|Class: D20, Confidence: 0.40
+2024-05-31 23:05:42,284|Class: D10, Confidence: 0.27
+2024-05-31 23:05:44,288|Class: D20, Confidence: 0.26
+2024-05-31 23:05:44,855|Class: D20, Confidence: 0.30
+2024-05-31 23:05:45,357|Class: D20, Confidence: 0.43
+2024-05-31 23:05:45,358|Class: D20, Confidence: 0.51
+2024-05-31 23:05:45,859|Class: D20, Confidence: 0.46
+2024-05-31 23:05:46,362|Class: D20, Confidence: 0.55
+2024-05-31 23:05:46,865|Class: D20, Confidence: 0.67
+2024-05-31 23:05:47,366|Class: D20, Confidence: 0.72
+2024-05-31 23:05:47,869|Class: D20, Confidence: 0.76
+2024-05-31 23:05:48,370|Class: D20, Confidence: 0.81
+2024-05-31 23:05:48,950|Class: D20, Confidence: 0.74
+2024-05-31 23:05:49,452|Class: D20, Confidence: 0.78
+2024-05-31 23:05:49,453|Class: D20, Confidence: 0.77
+2024-05-31 23:05:49,955|Class: D20, Confidence: 0.71
+2024-05-31 23:05:50,457|Class: D20, Confidence: 0.75
+2024-05-31 23:05:50,959|Class: D20, Confidence: 0.66
+2024-05-31 23:05:51,460|Class: D20, Confidence: 0.69
+2024-05-31 23:05:51,962|Class: D20, Confidence: 0.64
+2024-05-31 23:05:52,527|Class: D20, Confidence: 0.49
+2024-05-31 23:05:53,029|Class: D20, Confidence: 0.50
+2024-05-31 23:05:53,530|Class: D20, Confidence: 0.46
+2024-05-31 23:05:53,533|Class: D20, Confidence: 0.33
+Class: D40, Confidence: 0.26
+2024-05-31 23:06:02,697|Class: D40, Confidence: 0.28
+Class: D40, Confidence: 0.27
+2024-05-31 23:06:05,749|Class: D20, Confidence: 0.25
+2024-05-31 23:06:06,751|Class: D20, Confidence: 0.27
+2024-05-31 23:06:15,880|Class: D40, Confidence: 0.36
+2024-05-31 23:06:16,382|Class: D20, Confidence: 0.30
+2024-05-31 23:06:16,883|Class: D20, Confidence: 0.41
+2024-05-31 23:06:16,884|Class: D20, Confidence: 0.33
+2024-05-31 23:06:17,387|Class: D40, Confidence: 0.30
+Class: D20, Confidence: 0.29
+2024-05-31 23:06:17,889|Class: D40, Confidence: 0.29
+Class: D20, Confidence: 0.28
+2024-05-31 23:06:18,391|Class: D20, Confidence: 0.30
+2024-05-31 23:06:19,964|Class: D20, Confidence: 0.37
+2024-05-31 23:06:20,466|Class: D20, Confidence: 0.48
+2024-05-31 23:06:20,968|Class: D20, Confidence: 0.41
+2024-05-31 23:06:21,469|Class: D20, Confidence: 0.43
+Class: D20, Confidence: 0.25
+2024-05-31 23:06:21,971|Class: D20, Confidence: 0.30
+2024-05-31 23:06:22,473|Class: D20, Confidence: 0.27
+2024-05-31 23:06:24,006|Class: D20, Confidence: 0.26
+2024-05-31 23:06:24,508|Class: D20, Confidence: 0.35
+2024-05-31 23:06:24,509|Class: D20, Confidence: 0.44
+2024-05-31 23:06:25,010|Class: D20, Confidence: 0.38
+2024-05-31 23:06:25,513|Class: D10, Confidence: 0.38
+Class: D20, Confidence: 0.25
+2024-05-31 23:06:26,017|Class: D10, Confidence: 0.39
+Class: D10, Confidence: 0.29
+Class: D20, Confidence: 0.28
+2024-05-31 23:06:26,521|Class: D10, Confidence: 0.37
+Class: D10, Confidence: 0.29
+Class: D20, Confidence: 0.25
+2024-05-31 23:06:27,023|Class: D10, Confidence: 0.38
+2024-05-31 23:06:27,525|Class: D10, Confidence: 0.32
+Class: D10, Confidence: 0.30
+Class: D20, Confidence: 0.27
+2024-05-31 23:06:28,027|Class: D10, Confidence: 0.35
+Class: D10, Confidence: 0.27
+2024-05-31 23:06:28,565|Class: D10, Confidence: 0.35
+Class: D10, Confidence: 0.29
+2024-05-31 23:06:29,067|Class: D20, Confidence: 0.33
+Class: D10, Confidence: 0.26
+2024-05-31 23:06:30,070|Class: D40, Confidence: 0.45
+2024-05-31 23:06:34,636|Class: D00, Confidence: 0.28
+2024-05-31 23:06:35,138|Class: D00, Confidence: 0.42
+2024-05-31 23:06:40,786|Class: D20, Confidence: 0.32
+2024-05-31 23:06:41,288|Class: D20, Confidence: 0.29
+2024-05-31 23:06:41,790|Class: D44, Confidence: 0.39
+Class: D00, Confidence: 0.25
+2024-05-31 23:06:42,291|Class: D00, Confidence: 0.28
+2024-05-31 23:06:42,794|Class: D44, Confidence: 0.42
+2024-05-31 23:06:48,355|Class: D40, Confidence: 0.41
+2024-05-31 23:06:49,361|Class: D00, Confidence: 0.34
+2024-05-31 23:06:49,863|Class: D40, Confidence: 0.28
+2024-05-31 23:13:30,786|Class: D20, Confidence: 0.37
+2024-05-31 23:13:31,359|Class: D20, Confidence: 0.48
+2024-05-31 23:13:31,861|Class: D20, Confidence: 0.60
+2024-05-31 23:13:31,863|Class: D20, Confidence: 0.59
+2024-05-31 23:13:32,364|Class: D20, Confidence: 0.66
+2024-05-31 23:13:32,865|Class: D20, Confidence: 0.63
+2024-05-31 23:13:33,367|Class: D20, Confidence: 0.67
+2024-05-31 23:13:33,869|Class: D20, Confidence: 0.73
+2024-05-31 23:13:34,371|Class: D20, Confidence: 0.73
+2024-05-31 23:13:34,873|Class: D20, Confidence: 0.71
+2024-05-31 23:13:35,375|Class: D20, Confidence: 0.61
+2024-05-31 23:13:35,916|Class: D20, Confidence: 0.58
+2024-05-31 23:13:36,419|Class: D20, Confidence: 0.49
+2024-05-31 23:13:36,420|Class: D20, Confidence: 0.52
+Class: D50, Confidence: 0.30
+2024-05-31 23:13:36,921|Class: D50, Confidence: 0.63
+Class: D20, Confidence: 0.44
+2024-05-31 23:13:37,423|Class: D20, Confidence: 0.42
+Class: D50, Confidence: 0.41
+2024-05-31 23:13:37,925|Class: D50, Confidence: 0.41
+2024-05-31 23:13:38,427|Class: D50, Confidence: 0.54
+Class: D20, Confidence: 0.29
+2024-05-31 23:13:38,929|Class: D50, Confidence: 0.55
+Class: D20, Confidence: 0.36
+2024-05-31 23:13:39,431|Class: D50, Confidence: 0.58
+2024-05-31 23:13:39,998|Class: D50, Confidence: 0.60
+Class: D20, Confidence: 0.25
+2024-05-31 23:13:40,500|Class: D50, Confidence: 0.65
+2024-05-31 23:13:40,501|Class: D50, Confidence: 0.62
+2024-05-31 23:13:41,003|Class: D50, Confidence: 0.32
+Class: D40, Confidence: 0.29
+2024-05-31 23:13:41,506|Class: D40, Confidence: 0.32
+2024-05-31 23:13:42,008|Class: D40, Confidence: 0.43
+2024-05-31 23:13:42,509|Class: D40, Confidence: 0.31
+2024-05-31 23:13:43,011|Class: D40, Confidence: 0.49
+2024-05-31 23:13:44,544|Class: D40, Confidence: 0.26
+2024-05-31 23:13:45,546|Class: D40, Confidence: 0.32
+2024-05-31 23:13:55,181|Class: D40, Confidence: 0.26
+2024-05-31 23:13:55,682|Class: D40, Confidence: 0.41
+Class: D40, Confidence: 0.32
+2024-05-31 23:13:56,686|Class: D40, Confidence: 0.34
+2024-05-31 23:13:57,187|Class: D40, Confidence: 0.43
+2024-05-31 23:14:08,385|Class: D00, Confidence: 0.25
+2024-05-31 23:18:42,360|Class: D20, Confidence: 0.29
+2024-05-31 23:18:42,862|Class: D20, Confidence: 0.42
+2024-05-31 23:18:43,363|Class: D20, Confidence: 0.48
+2024-05-31 23:18:43,866|Class: D20, Confidence: 0.57
+2024-05-31 23:18:44,368|Class: D20, Confidence: 0.63
+2024-05-31 23:18:44,870|Class: D20, Confidence: 0.71
+2024-05-31 23:18:45,371|Class: D20, Confidence: 0.74
+2024-05-31 23:18:45,928|Class: D20, Confidence: 0.78
+2024-05-31 23:18:46,430|Class: D20, Confidence: 0.74
+2024-05-31 23:18:46,431|Class: D20, Confidence: 0.73
+2024-05-31 23:18:46,932|Class: D20, Confidence: 0.75
+2024-05-31 23:18:47,434|Class: D20, Confidence: 0.74
+2024-05-31 23:18:47,936|Class: D20, Confidence: 0.76
+Class: D20, Confidence: 0.28
+2024-05-31 23:18:48,438|Class: D20, Confidence: 0.76
+2024-05-31 23:18:48,940|Class: D20, Confidence: 0.69
+Class: D20, Confidence: 0.31
+2024-05-31 23:18:49,442|Class: D20, Confidence: 0.61
+2024-05-31 23:18:50,004|Class: D20, Confidence: 0.47
+2024-05-31 23:18:50,505|Class: D20, Confidence: 0.36
+2024-05-31 23:18:53,012|Class: D00, Confidence: 0.28
+2024-05-31 23:18:55,067|Class: D00, Confidence: 0.28
+2024-05-31 23:18:55,570|Class: D00, Confidence: 0.26
+2024-05-31 23:18:57,146|Class: D20, Confidence: 0.50
+2024-05-31 23:18:57,648|Class: D20, Confidence: 0.51
+2024-05-31 23:18:58,149|Class: D20, Confidence: 0.45
+2024-05-31 23:18:58,151|Class: D20, Confidence: 0.54
+2024-05-31 23:18:58,655|Class: D20, Confidence: 0.52
+2024-05-31 23:18:59,157|Class: D20, Confidence: 0.50
+2024-05-31 23:18:59,659|Class: D20, Confidence: 0.52
+2024-05-31 23:19:00,162|Class: D20, Confidence: 0.51
+2024-05-31 23:19:00,664|Class: D20, Confidence: 0.50
+2024-05-31 23:19:01,165|Class: D20, Confidence: 0.55
+2024-05-31 23:19:01,667|Class: D20, Confidence: 0.50
+2024-05-31 23:19:02,219|Class: D20, Confidence: 0.52
+2024-05-31 23:19:02,720|Class: D20, Confidence: 0.50
+2024-05-31 23:19:45,100|Class: D20, Confidence: 0.51
+2024-05-31 23:23:26,458|Class: D20, Confidence: 0.56
+2024-05-31 23:23:32,615|Class: D20, Confidence: 0.57
+2024-05-31 23:23:33,687|Class: D20, Confidence: 0.56
+2024-05-31 23:23:34,188|Class: D20, Confidence: 0.55
+2024-05-31 23:23:34,690|Class: D20, Confidence: 0.57
+2024-05-31 23:23:35,191|Class: D20, Confidence: 0.59
+2024-05-31 23:23:35,192|Class: D20, Confidence: 0.55
+2024-05-31 23:23:35,694|Class: D20, Confidence: 0.59
+2024-05-31 23:23:36,196|Class: D20, Confidence: 0.54
+2024-05-31 23:23:36,698|Class: D20, Confidence: 0.58
+2024-05-31 23:23:37,204|Class: D20, Confidence: 0.58
+2024-05-31 23:23:37,706|Class: D20, Confidence: 0.57
+2024-05-31 23:23:38,208|Class: D20, Confidence: 0.57
+2024-05-31 23:23:38,760|Class: D20, Confidence: 0.62
+2024-05-31 23:23:39,261|Class: D20, Confidence: 0.60
+2024-05-31 23:23:39,763|Class: D20, Confidence: 0.61
+2024-05-31 23:23:39,765|Class: D20, Confidence: 0.60
+2024-05-31 23:23:40,268|Class: D20, Confidence: 0.58
+2024-05-31 23:23:40,771|Class: D20, Confidence: 0.57
+2024-05-31 23:23:41,273|Class: D20, Confidence: 0.60
+2024-05-31 23:23:41,775|Class: D20, Confidence: 0.60
+2024-05-31 23:23:42,277|Class: D20, Confidence: 0.58
+2024-05-31 23:23:42,778|Class: D20, Confidence: 0.59
+2024-05-31 23:23:43,342|Class: D20, Confidence: 0.56
+2024-05-31 23:23:43,844|Class: D20, Confidence: 0.58
+2024-05-31 23:23:44,345|Class: D20, Confidence: 0.62
+2024-05-31 23:23:44,347|Class: D20, Confidence: 0.54
+2024-05-31 23:23:44,849|Class: D20, Confidence: 0.50
+2024-05-31 23:23:45,355|Class: D20, Confidence: 0.48
+2024-05-31 23:23:45,857|Class: D20, Confidence: 0.42
+2024-05-31 23:23:46,358|Class: D20, Confidence: 0.53
+2024-05-31 23:23:46,860|Class: D40, Confidence: 0.66
+Class: D20, Confidence: 0.32
+2024-05-31 23:23:47,362|Class: D40, Confidence: 0.58
+2024-05-31 23:23:47,904|Class: D40, Confidence: 0.39
+2024-05-31 23:23:48,406|Class: D40, Confidence: 0.48
+2024-05-31 23:23:48,406|Class: D20, Confidence: 0.33
+2024-05-31 23:23:48,908|Class: D20, Confidence: 0.26
+2024-05-31 23:23:50,410|Class: D20, Confidence: 0.25
+2024-05-31 23:23:50,912|Class: D20, Confidence: 0.62
+2024-05-31 23:23:51,413|Class: D20, Confidence: 0.60
+2024-05-31 23:23:51,964|Class: D20, Confidence: 0.61
+2024-05-31 23:23:52,465|Class: D20, Confidence: 0.61
+2024-05-31 23:23:52,466|Class: D20, Confidence: 0.68
+2024-05-31 23:23:52,967|Class: D20, Confidence: 0.64
+2024-05-31 23:23:53,469|Class: D20, Confidence: 0.51
+2024-05-31 23:23:53,970|Class: D20, Confidence: 0.47
+2024-05-31 23:23:54,472|Class: D20, Confidence: 0.46
+2024-05-31 23:23:54,974|Class: D20, Confidence: 0.50
+2024-05-31 23:23:55,476|Class: D20, Confidence: 0.54
+2024-05-31 23:23:56,024|Class: D20, Confidence: 0.53
+2024-05-31 23:23:56,526|Class: D20, Confidence: 0.45
+2024-05-31 23:23:56,527|Class: D20, Confidence: 0.28
+2024-05-31 23:23:58,530|Class: D44, Confidence: 0.26
+

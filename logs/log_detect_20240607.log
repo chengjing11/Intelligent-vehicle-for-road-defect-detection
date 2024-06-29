@@ -1,0 +1,1334 @@
+2024-06-07 11:18:07,931|Class: D00, Confidence: 0.44, ADD:1.00
+Defect Ratio: 0.02
+2024-06-07 11:18:13,568|Class: D00, Confidence: 0.45, ADD:2.00
+Defect Ratio: 1.18
+2024-06-07 11:18:15,219|Class: D00, Confidence: 0.48, ADD:3.00
+Defect Ratio: 16.08
+2024-06-07 11:18:15,220|Class: D00, Confidence: 0.48, ADD:4.00
+Defect Ratio: 22.09
+2024-06-07 11:18:15,723|Class: D00, Confidence: 0.45, ADD:5.00
+Defect Ratio: 27.63
+2024-06-07 11:18:16,227|Class: D00, Confidence: 0.45, ADD:6.00
+Defect Ratio: 33.14
+2024-06-07 11:18:16,729|Defect Ratio: 34.85
+2024-06-07 11:18:17,231|Defect Ratio: 34.97
+2024-06-07 11:18:17,733|Defect Ratio: 34.86
+2024-06-07 11:18:18,235|Defect Ratio: 34.58
+2024-06-07 11:18:18,737|Class: D00, Confidence: 0.50, ADD:7.00
+Defect Ratio: 37.75
+2024-06-07 11:18:19,239|Class: D00, Confidence: 0.36, ADD:8.00
+Defect Ratio: 44.20
+2024-06-07 11:18:19,743|Class: D00, Confidence: 0.35, ADD:9.00
+Defect Ratio: 49.11
+2024-06-07 11:18:20,246|Class: D00, Confidence: 0.31, ADD:10.00
+Defect Ratio: 55.19
+2024-06-07 11:18:20,748|Class: D00, Confidence: 0.42, ADD:11.00
+Defect Ratio: 59.83
+2024-06-07 11:18:21,251|Class: D00, Confidence: 0.39, ADD:12.00
+Defect Ratio: 63.66
+2024-06-07 11:18:21,753|Class: D00, Confidence: 0.37, ADD:13.00
+Defect Ratio: 70.54
+2024-06-07 11:18:22,255|Defect Ratio: 74.09
+2024-06-07 11:18:22,756|Defect Ratio: 75.74
+2024-06-07 11:18:23,759|Defect Ratio: 75.67
+2024-06-07 11:18:23,760|Defect Ratio: 74.85
+2024-06-07 11:18:24,763|Defect Ratio: 75.15
+2024-06-07 11:18:25,264|Defect Ratio: 76.47
+2024-06-07 11:18:25,766|Defect Ratio: 74.54
+2024-06-07 11:18:26,768|Defect Ratio: 75.44
+2024-06-07 11:18:27,270|Defect Ratio: 73.12
+2024-06-07 11:18:27,771|Defect Ratio: 69.02
+2024-06-07 11:18:29,282|Defect Ratio: 42.20
+2024-06-07 11:18:29,785|Defect Ratio: 74.93
+2024-06-07 11:18:31,288|Defect Ratio: 46.67
+2024-06-07 11:18:31,790|Defect Ratio: 75.48
+2024-06-07 11:18:32,293|Defect Ratio: 75.82
+2024-06-07 11:18:32,795|Defect Ratio: 75.79
+2024-06-07 11:18:33,297|Defect Ratio: 75.80
+2024-06-07 11:18:33,872|Defect Ratio: 75.88
+2024-06-07 11:18:34,374|Defect Ratio: 75.70
+2024-06-07 11:18:34,375|Defect Ratio: 76.27
+2024-06-07 11:18:34,877|Defect Ratio: 76.25
+2024-06-07 11:18:35,379|Defect Ratio: 75.92
+2024-06-07 11:18:35,881|Defect Ratio: 76.05
+2024-06-07 11:18:36,383|Defect Ratio: 76.24
+2024-06-07 11:18:36,885|Defect Ratio: 75.90
+2024-06-07 11:18:37,421|Defect Ratio: 74.18
+2024-06-07 11:18:37,923|Defect Ratio: 75.92
+2024-06-07 11:18:37,924|Defect Ratio: 75.25
+2024-06-07 11:18:38,426|Defect Ratio: 75.90
+2024-06-07 11:18:38,927|Defect Ratio: 75.71
+2024-06-07 11:18:39,430|Defect Ratio: 73.94
+2024-06-07 11:18:39,932|Defect Ratio: 75.84
+2024-06-07 11:18:40,441|Defect Ratio: 75.23
+2024-06-07 11:18:40,943|Class: D00, Confidence: 0.32, ADD:14.00
+Defect Ratio: 76.90
+2024-06-07 11:18:41,446|Class: D00, Confidence: 0.36, ADD:15.00
+Defect Ratio: 82.45
+2024-06-07 11:18:41,948|Class: D00, Confidence: 0.40, ADD:16.00
+Defect Ratio: 87.23
+2024-06-07 11:18:42,512|Class: D00, Confidence: 0.40, ADD:17.00
+Defect Ratio: 92.10
+2024-06-07 11:18:43,015|Class: D00, Confidence: 0.42, ADD:18.00
+Defect Ratio: 97.65
+2024-06-07 11:18:43,017|Class: D00, Confidence: 0.40, ADD:19.00
+Defect Ratio: 104.26
+2024-06-07 11:18:43,519|Class: D00, Confidence: 0.40, ADD:20.00
+Defect Ratio: 109.34
+2024-06-07 11:18:44,021|Defect Ratio: 117.11
+2024-06-07 11:18:44,523|Defect Ratio: 116.27
+2024-06-07 11:18:45,025|Defect Ratio: 116.11
+2024-06-07 11:18:45,527|Defect Ratio: 116.74
+2024-06-07 11:18:46,099|Defect Ratio: 115.17
+2024-06-07 11:18:46,601|Defect Ratio: 115.25
+2024-06-07 11:18:47,103|Defect Ratio: 115.88
+2024-06-07 11:18:48,166|Defect Ratio: 115.59
+2024-06-07 11:18:48,667|Defect Ratio: 116.39
+2024-06-07 11:18:48,668|Defect Ratio: 116.78
+2024-06-07 11:18:49,170|Defect Ratio: 116.89
+2024-06-07 11:18:49,672|Class: D00, Confidence: 0.44, ADD:21.00
+Defect Ratio: 113.50
+2024-06-07 11:18:50,174|Class: D00, Confidence: 0.50, ADD:22.00
+Class: D50, Confidence: 0.30, ADD:23.00
+Defect Ratio: 96.02
+2024-06-07 11:18:50,678|Class: D00, Confidence: 0.55, ADD:24.00
+Defect Ratio: 131.60
+2024-06-07 11:18:51,179|Class: D00, Confidence: 0.56, ADD:25.00
+Defect Ratio: 137.39
+2024-06-07 11:18:51,681|Class: D00, Confidence: 0.55, ADD:26.00
+Defect Ratio: 144.07
+2024-06-07 11:18:52,184|Class: D00, Confidence: 0.56, ADD:27.00
+Defect Ratio: 145.17
+2024-06-07 11:18:52,738|Class: D00, Confidence: 0.53, ADD:28.00
+Defect Ratio: 150.55
+2024-06-07 11:18:53,247|Class: D00, Confidence: 0.57, ADD:29.00
+Defect Ratio: 155.12
+2024-06-07 11:18:53,748|Class: D00, Confidence: 0.41, ADD:30.00
+Class: D00, Confidence: 0.40, ADD:31.00
+Defect Ratio: 159.05
+2024-06-07 11:18:54,250|Class: D00, Confidence: 0.69, ADD:32.00
+Defect Ratio: 174.60
+2024-06-07 11:18:54,251|Class: D00, Confidence: 0.45, ADD:33.00
+Class: D20, Confidence: 0.40, ADD:34.00
+Defect Ratio: 182.21
+2024-06-07 11:18:54,753|Class: D50, Confidence: 0.45, ADD:35.00
+Defect Ratio: 194.12
+2024-06-07 11:18:55,254|Defect Ratio: 204.86
+2024-06-07 11:18:55,755|Defect Ratio: 200.68
+2024-06-07 11:18:56,258|Defect Ratio: 191.05
+2024-06-07 11:18:56,759|Defect Ratio: 204.08
+2024-06-07 11:18:57,329|Defect Ratio: 200.61
+2024-06-07 11:18:57,830|Defect Ratio: 197.98
+2024-06-07 11:18:57,831|Defect Ratio: 204.34
+2024-06-07 11:18:58,332|Defect Ratio: 203.41
+2024-06-07 11:18:58,835|Defect Ratio: 204.47
+2024-06-07 11:18:59,343|Defect Ratio: 204.70
+2024-06-07 11:18:59,845|Defect Ratio: 203.96
+2024-06-07 11:19:00,347|Defect Ratio: 200.93
+2024-06-07 11:19:00,849|Defect Ratio: 202.90
+2024-06-07 11:19:01,351|Defect Ratio: 201.69
+2024-06-07 11:19:01,852|Defect Ratio: 207.17
+2024-06-07 11:19:02,428|Defect Ratio: 200.87
+2024-06-07 11:19:02,929|Defect Ratio: 202.72
+2024-06-07 11:19:02,931|Defect Ratio: 196.59
+2024-06-07 11:19:03,435|Defect Ratio: 204.23
+2024-06-07 11:19:03,940|Defect Ratio: 204.63
+2024-06-07 11:19:04,443|Defect Ratio: 205.39
+2024-06-07 11:19:04,944|Defect Ratio: 203.69
+2024-06-07 11:19:05,527|Defect Ratio: 204.12
+2024-06-07 11:19:06,030|Class: D00, Confidence: 0.33, ADD:36.00
+Defect Ratio: 193.73
+2024-06-07 11:19:06,032|Class: D00, Confidence: 0.54, ADD:37.00
+Class: D50, Confidence: 0.26, ADD:38.00
+Defect Ratio: 208.36
+2024-06-07 11:19:06,534|Class: D00, Confidence: 0.65, ADD:39.00
+Defect Ratio: 212.27
+2024-06-07 11:19:07,037|Class: D00, Confidence: 0.67, ADD:40.00
+Defect Ratio: 212.54
+2024-06-07 11:19:07,539|Class: D00, Confidence: 0.65, ADD:41.00
+Defect Ratio: 222.30
+2024-06-07 11:19:08,041|Class: D00, Confidence: 0.67, ADD:42.00
+Defect Ratio: 226.14
+2024-06-07 11:19:08,543|Class: D00, Confidence: 0.66, ADD:43.00
+Defect Ratio: 235.72
+2024-06-07 11:19:09,045|Class: D00, Confidence: 0.66, ADD:44.00
+Defect Ratio: 241.25
+2024-06-07 11:19:09,547|Class: D00, Confidence: 0.66, ADD:45.00
+Defect Ratio: 245.61
+2024-06-07 11:19:10,049|Class: D00, Confidence: 0.65, ADD:46.00
+Defect Ratio: 250.51
+2024-06-07 11:19:10,593|Class: D00, Confidence: 0.67, ADD:47.00
+Defect Ratio: 254.13
+2024-06-07 11:19:11,094|Class: D00, Confidence: 0.65, ADD:48.00
+Defect Ratio: 257.71
+2024-06-07 11:19:11,096|Class: D00, Confidence: 0.64, ADD:49.00
+Defect Ratio: 272.51
+2024-06-07 11:19:11,597|Class: D00, Confidence: 0.54, ADD:50.00
+Defect Ratio: 275.45
+2024-06-07 11:19:12,099|Class: D00, Confidence: 0.57, ADD:51.00
+Defect Ratio: 279.02
+2024-06-07 11:19:12,602|Class: D00, Confidence: 0.44, ADD:52.00
+Defect Ratio: 287.05
+2024-06-07 11:19:13,104|Defect Ratio: 294.40
+2024-06-07 11:19:13,606|Defect Ratio: 293.76
+2024-06-07 11:19:14,108|Defect Ratio: 290.77
+2024-06-07 11:19:14,611|Defect Ratio: 291.51
+2024-06-07 11:19:15,112|Defect Ratio: 294.29
+2024-06-07 11:19:15,658|Defect Ratio: 296.46
+2024-06-07 11:19:16,159|Defect Ratio: 303.07
+2024-06-07 11:19:16,161|Defect Ratio: 302.90
+2024-06-07 11:19:16,662|Defect Ratio: 304.80
+2024-06-07 11:19:17,166|Defect Ratio: 301.56
+2024-06-07 11:19:17,668|Defect Ratio: 301.44
+2024-06-07 11:19:18,169|Defect Ratio: 295.93
+2024-06-07 11:19:18,672|Defect Ratio: 297.38
+2024-06-07 11:19:19,174|Defect Ratio: 302.08
+2024-06-07 11:19:19,740|Defect Ratio: 298.27
+2024-06-07 11:19:20,242|Defect Ratio: 295.14
+2024-06-07 11:19:20,243|Defect Ratio: 303.22
+2024-06-07 11:19:20,744|Defect Ratio: 297.69
+2024-06-07 11:19:21,246|Defect Ratio: 302.00
+2024-06-07 11:19:21,747|Defect Ratio: 297.10
+2024-06-07 11:19:22,250|Defect Ratio: 295.07
+2024-06-07 11:19:22,751|Defect Ratio: 295.94
+2024-06-07 11:19:23,253|Defect Ratio: 296.55
+2024-06-07 11:19:23,755|Defect Ratio: 300.67
+2024-06-07 11:19:24,325|Defect Ratio: 294.22
+2024-06-07 11:19:24,827|Defect Ratio: 295.28
+2024-06-07 11:19:24,828|Defect Ratio: 302.79
+2024-06-07 11:19:25,331|Defect Ratio: 304.56
+2024-06-07 11:19:25,833|Defect Ratio: 296.79
+2024-06-07 11:19:26,336|Defect Ratio: 299.76
+2024-06-07 11:19:26,838|Defect Ratio: 304.61
+2024-06-07 11:19:27,339|Defect Ratio: 303.29
+2024-06-07 11:19:27,841|Defect Ratio: 295.80
+2024-06-07 11:19:28,343|Defect Ratio: 299.56
+2024-06-07 11:19:28,846|Defect Ratio: 292.98
+2024-06-07 11:19:29,361|Defect Ratio: 295.12
+2024-06-07 11:19:29,862|Defect Ratio: 304.41
+2024-06-07 11:19:29,863|Defect Ratio: 297.42
+2024-06-07 11:19:30,364|Defect Ratio: 299.86
+2024-06-07 11:19:30,866|Defect Ratio: 297.65
+2024-06-07 11:19:31,370|Defect Ratio: 300.36
+2024-06-07 11:19:31,873|Defect Ratio: 308.14
+2024-06-07 11:19:32,448|Defect Ratio: 298.83
+2024-06-07 11:19:32,950|Defect Ratio: 298.62
+2024-06-07 11:19:32,951|Defect Ratio: 306.19
+2024-06-07 11:19:33,452|Defect Ratio: 303.84
+2024-06-07 11:19:33,954|Defect Ratio: 304.22
+2024-06-07 11:19:34,455|Defect Ratio: 304.44
+2024-06-07 11:19:34,957|Defect Ratio: 304.11
+2024-06-07 11:19:35,459|Defect Ratio: 301.67
+2024-06-07 11:19:35,961|Class: D50, Confidence: 0.30, ADD:53.00
+Defect Ratio: 284.37
+2024-06-07 11:19:36,462|Class: D50, Confidence: 0.44, ADD:54.00
+Defect Ratio: 299.00
+2024-06-07 11:19:36,964|Class: D10, Confidence: 0.26, ADD:55.00
+Defect Ratio: 261.64
+2024-06-07 11:19:37,509|Defect Ratio: 310.69
+2024-06-07 11:19:38,011|Defect Ratio: 314.61
+2024-06-07 11:19:38,013|Defect Ratio: 315.69
+2024-06-07 11:19:38,515|Defect Ratio: 315.14
+2024-06-07 11:19:39,017|Defect Ratio: 315.58
+2024-06-07 11:19:39,519|Defect Ratio: 314.47
+2024-06-07 11:19:40,021|Defect Ratio: 315.75
+2024-06-07 11:19:40,606|Defect Ratio: 316.62
+2024-06-07 11:19:41,108|Defect Ratio: 314.52
+2024-06-07 11:19:41,109|Defect Ratio: 313.42
+2024-06-07 11:19:41,611|Defect Ratio: 305.35
+2024-06-07 11:19:42,114|Defect Ratio: 314.04
+2024-06-07 11:19:42,616|Defect Ratio: 308.39
+2024-06-07 11:19:44,803|Defect Ratio: 189.15
+2024-06-07 11:19:45,346|Class: D50, Confidence: 0.38, ADD:56.00
+Defect Ratio: 304.97
+2024-06-07 11:19:45,847|Class: D50, Confidence: 0.28, ADD:57.00
+Defect Ratio: 310.88
+2024-06-07 11:19:45,848|Class: D50, Confidence: 0.34, ADD:58.00
+Defect Ratio: 321.01
+2024-06-07 11:19:46,350|Class: D20, Confidence: 0.38, ADD:59.00
+Class: D50, Confidence: 0.36, ADD:60.00
+Defect Ratio: 327.44
+2024-06-07 11:19:46,852|Class: D50, Confidence: 0.32, ADD:61.00
+Defect Ratio: 336.40
+2024-06-07 11:19:47,355|Class: D50, Confidence: 0.26, ADD:62.00
+Defect Ratio: 340.19
+2024-06-07 11:19:47,856|Class: D50, Confidence: 0.28, ADD:63.00
+Defect Ratio: 347.46
+2024-06-07 11:19:48,358|Class: D50, Confidence: 0.29, ADD:64.00
+Defect Ratio: 347.87
+2024-06-07 11:19:48,859|Defect Ratio: 371.88
+2024-06-07 11:19:49,361|Class: D50, Confidence: 0.28, ADD:65.00
+Defect Ratio: 352.45
+2024-06-07 11:19:49,863|Defect Ratio: 369.82
+2024-06-07 11:19:50,430|Class: D50, Confidence: 0.30, ADD:66.00
+Defect Ratio: 360.78
+2024-06-07 11:19:50,931|Class: D20, Confidence: 0.32, ADD:67.00
+Class: D50, Confidence: 0.27, ADD:68.00
+Defect Ratio: 364.05
+2024-06-07 11:19:51,433|Class: D20, Confidence: 0.38, ADD:69.00
+Class: D50, Confidence: 0.29, ADD:70.00
+Defect Ratio: 377.02
+2024-06-07 11:19:51,434|Class: D20, Confidence: 0.35, ADD:71.00
+Class: D50, Confidence: 0.28, ADD:72.00
+Defect Ratio: 391.14
+2024-06-07 11:19:51,945|Class: D20, Confidence: 0.40, ADD:73.00
+Class: D50, Confidence: 0.32, ADD:74.00
+Defect Ratio: 403.79
+2024-06-07 11:19:52,447|Class: D50, Confidence: 0.76, ADD:75.00
+Class: D20, Confidence: 0.42, ADD:76.00
+Defect Ratio: 414.05
+2024-06-07 11:19:52,950|Class: D20, Confidence: 0.41, ADD:77.00
+Defect Ratio: 420.75
+2024-06-07 11:19:53,452|Class: D20, Confidence: 0.39, ADD:78.00
+Defect Ratio: 429.20
+2024-06-07 11:19:53,954|Class: D20, Confidence: 0.34, ADD:79.00
+Defect Ratio: 436.56
+2024-06-07 11:19:54,518|Class: D20, Confidence: 0.34, ADD:80.00
+Defect Ratio: 434.73
+2024-06-07 11:19:55,021|Class: D20, Confidence: 0.29, ADD:81.00
+Defect Ratio: 442.93
+2024-06-07 11:19:55,523|Class: D20, Confidence: 0.30, ADD:82.00
+Defect Ratio: 449.70
+2024-06-07 11:19:55,524|Class: D20, Confidence: 0.31, ADD:83.00
+Defect Ratio: 427.13
+2024-06-07 11:19:56,025|Class: D20, Confidence: 0.31, ADD:84.00
+Defect Ratio: 452.69
+2024-06-07 11:19:56,527|Class: D20, Confidence: 0.34, ADD:85.00
+Defect Ratio: 460.48
+2024-06-07 11:19:57,029|Defect Ratio: 495.90
+2024-06-07 11:19:57,531|Defect Ratio: 495.51
+2024-06-07 11:19:58,032|Defect Ratio: 490.88
+2024-06-07 11:19:58,535|Defect Ratio: 496.02
+2024-06-07 11:20:03,247|Defect Ratio: 492.07
+2024-06-07 11:20:03,749|Defect Ratio: 19.49
+2024-06-07 11:20:04,251|Defect Ratio: 475.99
+2024-06-07 11:20:04,752|Defect Ratio: 492.52
+2024-06-07 11:20:05,310|Defect Ratio: 484.37
+2024-06-07 11:20:05,812|Defect Ratio: 496.24
+2024-06-07 11:20:05,813|Class: D20, Confidence: 0.45, ADD:86.00
+Defect Ratio: 476.19
+2024-06-07 11:20:06,315|Class: D20, Confidence: 0.46, ADD:87.00
+Defect Ratio: 481.80
+2024-06-07 11:20:06,818|Class: D20, Confidence: 0.43, ADD:88.00
+Defect Ratio: 481.74
+2024-06-07 11:20:07,320|Class: D20, Confidence: 0.45, ADD:89.00
+Defect Ratio: 483.04
+2024-06-07 11:20:07,821|Class: D20, Confidence: 0.46, ADD:90.00
+Defect Ratio: 492.88
+2024-06-07 11:20:08,323|Class: D20, Confidence: 0.42, ADD:91.00
+Defect Ratio: 502.21
+2024-06-07 11:20:08,825|Class: D20, Confidence: 0.40, ADD:92.00
+Defect Ratio: 508.66
+2024-06-07 11:20:09,329|Class: D20, Confidence: 0.38, ADD:93.00
+Defect Ratio: 508.85
+2024-06-07 11:20:09,865|Class: D20, Confidence: 0.44, ADD:94.00
+Defect Ratio: 509.44
+2024-06-07 11:20:10,367|Class: D20, Confidence: 0.27, ADD:95.00
+Defect Ratio: 511.65
+2024-06-07 11:20:10,868|Class: D50, Confidence: 0.25, ADD:96.00
+Defect Ratio: 521.01
+2024-06-07 11:20:10,869|Defect Ratio: 561.60
+2024-06-07 11:20:11,371|Defect Ratio: 555.90
+2024-06-07 11:20:12,374|Defect Ratio: 553.88
+2024-06-07 11:20:12,875|Defect Ratio: 563.71
+2024-06-07 11:20:13,377|Defect Ratio: 564.75
+2024-06-07 11:20:13,950|Defect Ratio: 554.51
+2024-06-07 11:20:14,451|Defect Ratio: 556.58
+2024-06-07 11:20:14,452|Defect Ratio: 561.35
+2024-06-07 11:20:14,954|Defect Ratio: 566.34
+2024-06-07 11:20:15,455|Defect Ratio: 562.90
+2024-06-07 11:20:15,957|Defect Ratio: 567.61
+2024-06-07 11:20:16,459|Defect Ratio: 563.13
+2024-06-07 11:20:17,022|Defect Ratio: 555.60
+2024-06-07 11:20:17,523|Defect Ratio: 561.50
+2024-06-07 11:20:17,524|Defect Ratio: 560.00
+2024-06-07 11:20:18,026|Defect Ratio: 560.64
+2024-06-07 11:20:18,528|Defect Ratio: 546.35
+2024-06-07 11:20:19,030|Defect Ratio: 557.44
+2024-06-07 11:20:19,532|Defect Ratio: 561.87
+2024-06-07 11:20:20,034|Defect Ratio: 562.81
+2024-06-07 11:20:20,536|Defect Ratio: 568.52
+2024-06-07 11:20:21,108|Defect Ratio: 559.60
+2024-06-07 11:20:21,610|Class: D20, Confidence: 0.32, ADD:97.00
+Defect Ratio: 527.04
+2024-06-07 11:20:21,611|Defect Ratio: 567.80
+2024-06-07 11:20:22,112|Defect Ratio: 569.86
+2024-06-07 11:20:22,615|Defect Ratio: 568.27
+2024-06-07 11:20:23,117|Defect Ratio: 571.13
+2024-06-07 11:20:23,619|Class: D20, Confidence: 0.26, ADD:98.00
+Defect Ratio: 534.86
+2024-06-07 11:20:24,121|Class: D20, Confidence: 0.29, ADD:99.00
+Defect Ratio: 548.40
+2024-06-07 11:20:24,687|Class: D20, Confidence: 0.34, ADD:100.00
+Defect Ratio: 545.31
+2024-06-07 11:20:25,190|Defect Ratio: 567.88
+2024-06-07 11:20:25,691|Defect Ratio: 541.14
+2024-06-07 11:20:26,198|Class: D20, Confidence: 0.48, ADD:101.00
+Defect Ratio: 529.96
+2024-06-07 11:20:26,200|Class: D20, Confidence: 0.32, ADD:102.00
+Defect Ratio: 557.79
+2024-06-07 11:20:26,701|Class: D20, Confidence: 0.30, ADD:103.00
+Defect Ratio: 570.45
+2024-06-07 11:20:27,202|Defect Ratio: 603.60
+2024-06-07 11:20:27,704|Defect Ratio: 593.62
+2024-06-07 11:20:28,206|Defect Ratio: 592.75
+2024-06-07 11:20:28,708|Defect Ratio: 593.21
+2024-06-07 11:20:29,248|Defect Ratio: 583.81
+2024-06-07 11:20:29,750|Defect Ratio: 591.06
+2024-06-07 11:20:29,751|Defect Ratio: 605.03
+2024-06-07 11:20:30,253|Defect Ratio: 589.95
+2024-06-07 11:20:30,755|Defect Ratio: 591.64
+2024-06-07 11:20:31,258|Defect Ratio: 589.92
+2024-06-07 11:20:31,759|Defect Ratio: 588.89
+2024-06-07 11:20:32,261|Defect Ratio: 605.91
+2024-06-07 11:20:32,762|Defect Ratio: 597.31
+2024-06-07 11:20:33,312|Defect Ratio: 578.19
+2024-06-07 11:20:33,814|Class: D20, Confidence: 0.26, ADD:104.00
+Defect Ratio: 567.53
+2024-06-07 11:20:33,815|Defect Ratio: 612.16
+2024-06-07 11:20:34,317|Class: D20, Confidence: 0.37, ADD:105.00
+Defect Ratio: 577.89
+2024-06-07 11:20:34,819|Class: D20, Confidence: 0.32, ADD:106.00
+Defect Ratio: 585.49
+2024-06-07 11:20:35,324|Class: D20, Confidence: 0.28, ADD:107.00
+Defect Ratio: 586.96
+2024-06-07 11:20:35,825|Class: D20, Confidence: 0.34, ADD:108.00
+Defect Ratio: 601.64
+2024-06-07 11:20:36,327|Class: D20, Confidence: 0.41, ADD:109.00
+Defect Ratio: 603.02
+2024-06-07 11:20:36,869|Defect Ratio: 620.30
+2024-06-07 11:20:37,370|Class: D50, Confidence: 0.55, ADD:110.00
+Class: D20, Confidence: 0.51, ADD:111.00
+Defect Ratio: 595.37
+2024-06-07 11:20:37,371|Defect Ratio: 650.60
+2024-06-07 11:20:37,873|Defect Ratio: 647.82
+2024-06-07 11:20:38,375|Defect Ratio: 644.53
+2024-06-07 11:20:38,878|Defect Ratio: 649.87
+2024-06-07 11:20:39,379|Defect Ratio: 647.20
+2024-06-07 11:20:39,881|Defect Ratio: 647.84
+2024-06-07 11:20:40,382|Defect Ratio: 651.29
+2024-06-07 11:20:40,932|Defect Ratio: 644.70
+2024-06-07 11:20:41,436|Defect Ratio: 647.57
+2024-06-07 11:20:41,437|Defect Ratio: 655.49
+2024-06-07 11:20:41,939|Defect Ratio: 648.81
+2024-06-07 11:20:42,441|Defect Ratio: 652.83
+2024-06-07 11:20:42,944|Defect Ratio: 650.76
+2024-06-07 11:20:43,446|Defect Ratio: 654.08
+2024-06-07 11:20:43,990|Defect Ratio: 642.08
+2024-06-07 11:20:44,491|Defect Ratio: 648.62
+2024-06-07 11:20:44,492|Defect Ratio: 648.02
+2024-06-07 11:20:44,994|Defect Ratio: 648.74
+2024-06-07 11:20:45,496|Defect Ratio: 649.53
+2024-06-07 11:20:45,998|Defect Ratio: 642.71
+2024-06-07 11:20:46,500|Defect Ratio: 651.23
+2024-06-07 11:20:47,002|Defect Ratio: 646.66
+2024-06-07 11:20:47,569|Defect Ratio: 641.95
+2024-06-07 11:20:48,070|Defect Ratio: 649.59
+2024-06-07 11:20:48,071|Class: D20, Confidence: 0.29, ADD:112.00
+Defect Ratio: 615.98
+2024-06-07 11:20:48,572|Class: D20, Confidence: 0.31, ADD:113.00
+Defect Ratio: 627.22
+2024-06-07 11:20:49,074|Defect Ratio: 662.57
+2024-06-07 11:20:49,576|Defect Ratio: 661.50
+2024-06-07 11:20:50,078|Defect Ratio: 664.62
+2024-06-07 11:20:50,580|Defect Ratio: 659.73
+2024-06-07 11:20:51,127|Class: D20, Confidence: 0.59, ADD:114.00
+Defect Ratio: 612.49
+2024-06-07 11:20:51,629|Defect Ratio: 644.74
+2024-06-07 11:20:51,630|Class: D20, Confidence: 0.37, ADD:115.00
+Class: D50, Confidence: 0.26, ADD:116.00
+Defect Ratio: 635.11
+2024-06-07 11:20:52,132|Class: D20, Confidence: 0.33, ADD:117.00
+Defect Ratio: 642.79
+2024-06-07 11:20:52,638|Defect Ratio: 684.49
+2024-06-07 11:20:53,140|Defect Ratio: 668.80
+2024-06-07 11:20:53,642|Class: D20, Confidence: 0.29, ADD:118.00
+Defect Ratio: 640.36
+2024-06-07 11:20:58,651|Class: D20, Confidence: 0.25, ADD:119.00
+Defect Ratio: 403.12
+2024-06-07 11:20:58,654|Class: D20, Confidence: 0.29, ADD:120.00
+Defect Ratio: 661.87
+2024-06-07 11:20:59,159|Class: D20, Confidence: 0.28, ADD:121.00
+Defect Ratio: 651.58
+2024-06-07 11:20:59,661|Defect Ratio: 710.47
+2024-06-07 11:21:00,163|Defect Ratio: 691.80
+2024-06-07 11:21:00,666|Class: D20, Confidence: 0.25, ADD:122.00
+Defect Ratio: 663.43
+2024-06-07 11:21:01,168|Defect Ratio: 701.90
+2024-06-07 11:21:01,670|Defect Ratio: 703.74
+2024-06-07 11:21:02,171|Defect Ratio: 702.60
+2024-06-07 11:21:02,674|Defect Ratio: 699.19
+2024-06-07 11:21:03,175|Class: D20, Confidence: 0.28, ADD:123.00
+Defect Ratio: 676.70
+2024-06-07 11:21:03,677|Defect Ratio: 714.58
+2024-06-07 11:21:04,209|Defect Ratio: 708.24
+2024-06-07 11:21:04,710|Defect Ratio: 719.36
+2024-06-07 11:21:04,711|Defect Ratio: 719.95
+2024-06-07 11:21:05,213|Class: D20, Confidence: 0.27, ADD:124.00
+Defect Ratio: 683.71
+2024-06-07 11:21:05,715|Defect Ratio: 723.57
+2024-06-07 11:21:06,217|Defect Ratio: 713.34
+2024-06-07 11:21:06,719|Defect Ratio: 708.14
+2024-06-07 11:21:07,221|Defect Ratio: 711.08
+2024-06-07 11:21:07,722|Defect Ratio: 713.32
+2024-06-07 11:21:08,225|Defect Ratio: 715.41
+2024-06-07 11:21:08,727|Defect Ratio: 713.70
+2024-06-07 11:21:09,286|Defect Ratio: 708.81
+2024-06-07 11:21:09,787|Defect Ratio: 709.63
+2024-06-07 11:21:09,788|Defect Ratio: 715.04
+2024-06-07 11:21:10,290|Defect Ratio: 708.22
+2024-06-07 11:21:10,792|Class: D20, Confidence: 0.26, ADD:125.00
+Defect Ratio: 692.65
+2024-06-07 11:21:11,293|Class: D20, Confidence: 0.38, ADD:126.00
+Defect Ratio: 691.43
+2024-06-07 11:21:11,795|Class: D20, Confidence: 0.29, ADD:127.00
+Defect Ratio: 692.80
+2024-06-07 11:21:12,297|Class: D20, Confidence: 0.30, ADD:128.00
+Defect Ratio: 707.43
+2024-06-07 11:21:12,799|Class: D20, Confidence: 0.32, ADD:129.00
+Defect Ratio: 703.88
+2024-06-07 11:21:13,301|Class: D20, Confidence: 0.31, ADD:130.00
+Defect Ratio: 704.84
+2024-06-07 11:21:13,802|Class: D20, Confidence: 0.33, ADD:131.00
+Defect Ratio: 657.84
+2024-06-07 11:21:14,304|Class: D20, Confidence: 0.34, ADD:132.00
+Defect Ratio: 697.27
+2024-06-07 11:21:14,839|Class: D20, Confidence: 0.34, ADD:133.00
+Defect Ratio: 722.57
+2024-06-07 11:21:15,340|Class: D20, Confidence: 0.39, ADD:134.00
+Defect Ratio: 730.20
+2024-06-07 11:21:15,341|Class: D20, Confidence: 0.37, ADD:135.00
+Defect Ratio: 742.83
+2024-06-07 11:21:15,843|Class: D20, Confidence: 0.38, ADD:136.00
+Defect Ratio: 745.88
+2024-06-07 11:21:16,345|Class: D20, Confidence: 0.44, ADD:137.00
+Defect Ratio: 758.53
+2024-06-07 11:21:16,847|Class: D20, Confidence: 0.39, ADD:138.00
+Defect Ratio: 759.17
+2024-06-07 11:21:17,349|Class: D20, Confidence: 0.39, ADD:139.00
+Defect Ratio: 762.86
+2024-06-07 11:21:17,851|Class: D20, Confidence: 0.38, ADD:140.00
+Defect Ratio: 772.95
+2024-06-07 11:21:18,355|Class: D20, Confidence: 0.45, ADD:141.00
+Defect Ratio: 778.45
+2024-06-07 11:21:18,857|Class: D20, Confidence: 0.40, ADD:142.00
+Defect Ratio: 766.98
+2024-06-07 11:21:19,397|Class: D20, Confidence: 0.42, ADD:143.00
+Defect Ratio: 778.46
+2024-06-07 11:21:19,899|Class: D20, Confidence: 0.33, ADD:144.00
+Defect Ratio: 761.97
+2024-06-07 11:21:20,401|Class: D20, Confidence: 0.30, ADD:145.00
+Defect Ratio: 730.45
+2024-06-07 11:21:20,903|Class: D20, Confidence: 0.27, ADD:146.00
+Defect Ratio: 778.03
+2024-06-07 11:21:21,405|Class: D20, Confidence: 0.41, ADD:147.00
+Defect Ratio: 790.51
+2024-06-07 11:21:21,406|Class: D20, Confidence: 0.34, ADD:148.00
+Defect Ratio: 815.35
+2024-06-07 11:21:21,909|Class: D43, Confidence: 0.35, ADD:149.00
+Class: D20, Confidence: 0.32, ADD:150.00
+Defect Ratio: 818.57
+2024-06-07 11:21:22,412|Class: D43, Confidence: 0.48, ADD:151.00
+Defect Ratio: 838.01
+2024-06-07 11:21:22,914|Class: D43, Confidence: 0.52, ADD:152.00
+Defect Ratio: 838.47
+2024-06-07 11:21:23,416|Class: D20, Confidence: 0.51, ADD:153.00
+Defect Ratio: 841.75
+2024-06-07 11:21:23,917|Class: D43, Confidence: 0.47, ADD:154.00
+Defect Ratio: 844.65
+2024-06-07 11:21:24,492|Class: D43, Confidence: 0.43, ADD:155.00
+Defect Ratio: 849.74
+2024-06-07 11:21:24,994|Class: D20, Confidence: 0.32, ADD:156.00
+Defect Ratio: 841.11
+2024-06-07 11:21:24,995|Class: D20, Confidence: 0.31, ADD:157.00
+Defect Ratio: 866.91
+2024-06-07 11:21:25,496|Class: D20, Confidence: 0.34, ADD:158.00
+Defect Ratio: 872.49
+2024-06-07 11:21:25,999|Defect Ratio: 904.60
+2024-06-07 11:21:26,501|Defect Ratio: 902.71
+2024-06-07 11:21:27,003|Class: D43, Confidence: 0.31, ADD:159.00
+Defect Ratio: 869.16
+2024-06-07 11:21:27,504|Class: D20, Confidence: 0.33, ADD:160.00
+Defect Ratio: 864.29
+2024-06-07 11:21:28,006|Class: D43, Confidence: 0.31, ADD:161.00
+Defect Ratio: 873.69
+2024-06-07 11:21:28,508|Defect Ratio: 919.07
+2024-06-07 11:21:29,010|Class: D20, Confidence: 0.32, ADD:162.00
+Defect Ratio: 894.00
+2024-06-07 11:21:29,574|Class: D20, Confidence: 0.27, ADD:163.00
+Defect Ratio: 883.44
+2024-06-07 11:21:30,075|Defect Ratio: 940.84
+2024-06-07 11:21:30,076|Defect Ratio: 938.83
+2024-06-07 11:21:30,577|Defect Ratio: 932.42
+2024-06-07 11:21:31,079|Defect Ratio: 958.46
+2024-06-07 11:21:31,582|Defect Ratio: 957.01
+2024-06-07 11:21:32,083|Defect Ratio: 957.53
+2024-06-07 11:21:32,585|Class: D44, Confidence: 0.27, ADD:164.00
+Defect Ratio: 909.32
+2024-06-07 11:21:33,141|Class: D43, Confidence: 0.26, ADD:165.00
+Defect Ratio: 897.93
+2024-06-07 11:21:33,643|Defect Ratio: 950.50
+2024-06-07 11:21:33,644|Defect Ratio: 965.00
+2024-06-07 11:21:34,145|Defect Ratio: 908.12
+2024-06-07 11:21:34,647|Defect Ratio: 941.83
+2024-06-07 11:21:35,150|Defect Ratio: 972.66
+2024-06-07 11:21:35,653|Class: D20, Confidence: 0.28, ADD:166.00
+Defect Ratio: 905.55
+2024-06-07 11:21:36,154|Defect Ratio: 972.35
+2024-06-07 11:21:36,656|Defect Ratio: 977.11
+2024-06-07 11:21:37,201|Defect Ratio: 958.60
+2024-06-07 11:21:37,702|Defect Ratio: 971.80
+2024-06-07 11:21:37,703|Defect Ratio: 958.32
+2024-06-07 11:21:38,205|Defect Ratio: 953.09
+2024-06-07 11:21:38,706|Defect Ratio: 949.38
+2024-06-07 11:21:39,208|Defect Ratio: 957.51
+2024-06-07 11:21:39,710|Defect Ratio: 957.83
+2024-06-07 11:21:40,213|Defect Ratio: 947.09
+2024-06-07 11:21:40,715|Defect Ratio: 936.12
+2024-06-07 11:21:41,238|Defect Ratio: 897.29
+2024-06-07 11:21:41,740|Defect Ratio: 945.43
+2024-06-07 11:21:42,242|Defect Ratio: 955.51
+2024-06-07 11:21:42,242|Defect Ratio: 952.12
+2024-06-07 11:21:42,744|Defect Ratio: 973.26
+2024-06-07 11:21:43,246|Defect Ratio: 981.02
+2024-06-07 11:21:43,747|Defect Ratio: 974.56
+2024-06-07 11:21:44,248|Defect Ratio: 973.72
+2024-06-07 11:21:44,786|Defect Ratio: 964.16
+2024-06-07 11:21:45,288|Defect Ratio: 969.28
+2024-06-07 11:21:45,289|Defect Ratio: 974.71
+2024-06-07 11:21:45,790|Defect Ratio: 970.31
+2024-06-07 11:21:46,291|Defect Ratio: 972.95
+2024-06-07 11:21:46,793|Defect Ratio: 978.20
+2024-06-07 11:21:47,296|Defect Ratio: 974.41
+2024-06-07 11:21:47,801|Defect Ratio: 956.10
+2024-06-07 11:21:48,303|Defect Ratio: 970.05
+2024-06-07 11:21:48,805|Defect Ratio: 942.16
+2024-06-07 11:21:49,342|Defect Ratio: 944.50
+2024-06-07 11:21:49,843|Defect Ratio: 949.12
+2024-06-07 11:21:49,844|Defect Ratio: 969.80
+2024-06-07 11:21:50,346|Defect Ratio: 974.19
+2024-06-07 11:21:50,848|Class: D43, Confidence: 0.49, ADD:167.00
+Defect Ratio: 921.52
+2024-06-07 11:21:51,350|Class: D43, Confidence: 0.47, ADD:168.00
+Defect Ratio: 921.52
+2024-06-07 11:21:51,853|Class: D43, Confidence: 0.35, ADD:169.00
+Defect Ratio: 921.48
+2024-06-07 11:21:52,355|Class: D43, Confidence: 0.58, ADD:170.00
+Defect Ratio: 945.55
+2024-06-07 11:21:52,857|Class: D43, Confidence: 0.42, ADD:171.00
+Defect Ratio: 944.77
+2024-06-07 11:21:53,401|Class: D43, Confidence: 0.58, ADD:172.00
+Defect Ratio: 937.30
+2024-06-07 11:21:53,902|Class: D43, Confidence: 0.33, ADD:173.00
+Defect Ratio: 942.10
+2024-06-07 11:21:53,904|Class: D43, Confidence: 0.28, ADD:174.00
+Defect Ratio: 952.33
+2024-06-07 11:21:54,405|Class: D43, Confidence: 0.34, ADD:175.00
+Defect Ratio: 925.16
+2024-06-07 11:21:54,907|Class: D43, Confidence: 0.29, ADD:176.00
+Defect Ratio: 961.74
+2024-06-07 11:21:55,410|Defect Ratio: 1006.05
+2024-06-07 11:21:55,913|Class: D43, Confidence: 0.26, ADD:177.00
+Defect Ratio: 977.23
+2024-06-07 11:21:56,416|Defect Ratio: 1017.13
+2024-06-07 11:21:56,918|Defect Ratio: 1021.04
+2024-06-07 11:21:57,420|Class: D43, Confidence: 0.28, ADD:178.00
+Defect Ratio: 980.29
+2024-06-07 11:21:57,921|Class: D43, Confidence: 0.30, ADD:179.00
+Defect Ratio: 989.41
+2024-06-07 11:21:58,498|Class: D43, Confidence: 0.26, ADD:180.00
+Defect Ratio: 985.61
+2024-06-07 11:21:58,999|Class: D43, Confidence: 0.37, ADD:181.00
+Defect Ratio: 972.84
+2024-06-07 11:21:59,507|Class: D43, Confidence: 0.31, ADD:182.00
+Defect Ratio: 1002.34
+2024-06-07 11:21:59,508|Class: D43, Confidence: 0.30, ADD:183.00
+Defect Ratio: 1005.75
+2024-06-07 11:22:00,009|Class: D43, Confidence: 0.26, ADD:184.00
+Defect Ratio: 1002.65
+2024-06-07 11:22:00,513|Defect Ratio: 1065.89
+2024-06-07 11:22:01,015|Defect Ratio: 1058.43
+2024-06-07 11:22:01,517|Defect Ratio: 1073.52
+2024-06-07 11:22:02,019|Defect Ratio: 1040.68
+2024-06-07 11:22:02,577|Defect Ratio: 1057.31
+2024-06-07 11:22:03,079|Defect Ratio: 1048.33
+2024-06-07 11:22:03,080|Defect Ratio: 1061.01
+2024-06-07 11:22:03,581|Defect Ratio: 1052.14
+2024-06-07 11:22:04,083|Defect Ratio: 1061.79
+2024-06-07 11:22:04,585|Defect Ratio: 1063.86
+2024-06-07 11:22:05,087|Class: D43, Confidence: 0.54, ADD:185.00
+Defect Ratio: 1023.41
+2024-06-07 11:22:05,589|Class: D43, Confidence: 0.31, ADD:186.00
+Defect Ratio: 1031.07
+2024-06-07 11:22:06,152|Class: D20, Confidence: 0.39, ADD:187.00
+Class: D43, Confidence: 0.35, ADD:188.00
+Defect Ratio: 1001.23
+2024-06-07 11:22:06,654|Defect Ratio: 1074.81
+2024-06-07 11:22:06,655|Class: D43, Confidence: 0.29, ADD:189.00
+Defect Ratio: 1049.74
+2024-06-07 11:22:07,157|Defect Ratio: 1095.48
+2024-06-07 11:22:07,659|Defect Ratio: 1082.83
+2024-06-07 11:22:08,161|Defect Ratio: 1069.54
+2024-06-07 11:22:08,663|Defect Ratio: 1031.33
+2024-06-07 11:22:09,165|Defect Ratio: 1085.02
+2024-06-07 11:22:09,667|Class: D43, Confidence: 0.25, ADD:190.00
+Defect Ratio: 1040.46
+2024-06-07 11:22:10,170|Class: D43, Confidence: 0.44, ADD:191.00
+Defect Ratio: 1056.05
+2024-06-07 11:22:10,707|Class: D43, Confidence: 0.29, ADD:192.00
+Defect Ratio: 1038.25
+2024-06-07 11:22:11,209|Class: D43, Confidence: 0.34, ADD:193.00
+Defect Ratio: 1058.65
+2024-06-07 11:22:11,211|Class: D43, Confidence: 0.35, ADD:194.00
+Defect Ratio: 1075.20
+2024-06-07 11:22:11,713|Class: D43, Confidence: 0.34, ADD:195.00
+Defect Ratio: 1073.31
+2024-06-07 11:22:12,217|Class: D43, Confidence: 0.28, ADD:196.00
+Defect Ratio: 1079.35
+2024-06-07 11:22:12,720|Class: D43, Confidence: 0.35, ADD:197.00
+Defect Ratio: 1079.27
+2024-06-07 11:22:13,222|Class: D43, Confidence: 0.28, ADD:198.00
+Defect Ratio: 1093.86
+2024-06-07 11:22:13,723|Defect Ratio: 1168.09
+2024-06-07 11:22:14,278|Defect Ratio: 1142.67
+2024-06-07 11:22:14,780|Class: D20, Confidence: 0.36, ADD:199.00
+Defect Ratio: 1088.54
+2024-06-07 11:22:15,782|Class: D43, Confidence: 0.32, ADD:200.00
+Defect Ratio: 952.90
+2024-06-07 11:22:16,334|Defect Ratio: 1145.24
+2024-06-07 11:22:16,836|Defect Ratio: 1162.57
+2024-06-07 11:22:16,838|Class: D20, Confidence: 0.52, ADD:201.00
+Defect Ratio: 1112.27
+2024-06-07 11:22:17,341|Defect Ratio: 1158.59
+2024-06-07 11:22:17,843|Class: D20, Confidence: 0.33, ADD:202.00
+Defect Ratio: 1106.01
+2024-06-07 11:22:18,345|Class: D20, Confidence: 0.38, ADD:203.00
+Defect Ratio: 1122.45
+2024-06-07 11:22:18,847|Class: D20, Confidence: 0.27, ADD:204.00
+Defect Ratio: 1122.65
+2024-06-07 11:22:19,349|Class: D20, Confidence: 0.26, ADD:205.00
+Defect Ratio: 1129.56
+2024-06-07 11:22:19,916|Defect Ratio: 1186.14
+2024-06-07 11:22:20,418|Defect Ratio: 1193.33
+2024-06-07 11:22:20,419|Defect Ratio: 1203.96
+2024-06-07 11:22:20,920|Defect Ratio: 1186.26
+2024-06-07 11:22:21,423|Defect Ratio: 1204.56
+2024-06-07 11:22:21,925|Defect Ratio: 1176.54
+2024-06-07 11:22:22,427|Defect Ratio: 1151.69
+2024-06-07 11:22:22,929|Class: D43, Confidence: 0.30, ADD:206.00
+Defect Ratio: 1135.15
+2024-06-07 11:22:23,431|Class: D43, Confidence: 0.31, ADD:207.00
+Defect Ratio: 1133.04
+2024-06-07 11:22:23,933|Class: D43, Confidence: 0.32, ADD:208.00
+Defect Ratio: 1135.17
+2024-06-07 11:22:24,469|Class: D43, Confidence: 0.31, ADD:209.00
+Defect Ratio: 1134.55
+2024-06-07 11:22:24,971|Class: D43, Confidence: 0.26, ADD:210.00
+Defect Ratio: 1132.47
+2024-06-07 11:22:24,972|Class: D43, Confidence: 0.28, ADD:211.00
+Defect Ratio: 1165.84
+2024-06-07 11:22:25,473|Class: D43, Confidence: 0.25, ADD:212.00
+Defect Ratio: 1165.58
+2024-06-07 11:22:25,975|Class: D43, Confidence: 0.26, ADD:213.00
+Defect Ratio: 1178.16
+2024-06-07 11:22:26,479|Defect Ratio: 1219.07
+2024-06-07 11:22:26,982|Class: D43, Confidence: 0.31, ADD:214.00
+Defect Ratio: 1187.00
+2024-06-07 11:22:27,485|Class: D43, Confidence: 0.33, ADD:215.00
+Defect Ratio: 1186.13
+2024-06-07 11:22:27,987|Class: D43, Confidence: 0.29, ADD:216.00
+Defect Ratio: 1194.70
+2024-06-07 11:22:28,489|Class: D43, Confidence: 0.26, ADD:217.00
+Defect Ratio: 1156.31
+2024-06-07 11:22:28,991|Class: D43, Confidence: 0.30, ADD:218.00
+Defect Ratio: 1180.52
+2024-06-07 11:22:29,517|Class: D43, Confidence: 0.28, ADD:219.00
+Defect Ratio: 1142.61
+2024-06-07 11:22:30,018|Class: D43, Confidence: 0.31, ADD:220.00
+Defect Ratio: 1183.29
+2024-06-07 11:22:30,520|Class: D43, Confidence: 0.25, ADD:221.00
+Defect Ratio: 1206.86
+2024-06-07 11:22:30,521|Class: D43, Confidence: 0.29, ADD:222.00
+Defect Ratio: 1225.97
+2024-06-07 11:22:31,023|Class: D43, Confidence: 0.27, ADD:223.00
+Defect Ratio: 1237.30
+2024-06-07 11:22:31,525|Class: D43, Confidence: 0.28, ADD:224.00
+Defect Ratio: 1234.57
+2024-06-07 11:22:32,027|Defect Ratio: 1282.40
+2024-06-07 11:22:32,529|Defect Ratio: 1299.12
+2024-06-07 11:22:33,100|Class: D43, Confidence: 0.39, ADD:225.00
+Defect Ratio: 1232.24
+2024-06-07 11:22:33,602|Class: D20, Confidence: 0.52, ADD:226.00
+Defect Ratio: 1215.63
+2024-06-07 11:22:33,603|Class: D20, Confidence: 0.53, ADD:227.00
+Defect Ratio: 1260.03
+2024-06-07 11:22:34,104|Class: D20, Confidence: 0.57, ADD:228.00
+Defect Ratio: 1267.57
+2024-06-07 11:22:34,606|Class: D20, Confidence: 0.55, ADD:229.00
+Defect Ratio: 1267.60
+2024-06-07 11:22:35,108|Class: D20, Confidence: 0.53, ADD:230.00
+Defect Ratio: 1259.11
+2024-06-07 11:22:35,611|Class: D20, Confidence: 0.53, ADD:231.00
+Defect Ratio: 1274.75
+2024-06-07 11:22:36,112|Class: D20, Confidence: 0.47, ADD:232.00
+Defect Ratio: 1267.93
+2024-06-07 11:22:36,615|Class: D20, Confidence: 0.53, ADD:233.00
+Defect Ratio: 1275.08
+2024-06-07 11:22:37,117|Class: D20, Confidence: 0.53, ADD:234.00
+Defect Ratio: 1253.36
+2024-06-07 11:22:37,668|Class: D20, Confidence: 0.54, ADD:235.00
+Defect Ratio: 1275.01
+2024-06-07 11:22:38,171|Class: D20, Confidence: 0.53, ADD:236.00
+Defect Ratio: 1279.75
+2024-06-07 11:22:38,172|Class: D20, Confidence: 0.67, ADD:237.00
+Class: D40, Confidence: 0.35, ADD:238.00
+Defect Ratio: 1294.22
+2024-06-07 11:22:38,673|Class: D43, Confidence: 0.28, ADD:239.00
+Defect Ratio: 1316.99
+2024-06-07 11:22:39,177|Class: D43, Confidence: 0.31, ADD:240.00
+Defect Ratio: 1309.11
+2024-06-07 11:22:39,679|Class: D43, Confidence: 0.28, ADD:241.00
+Defect Ratio: 1326.78
+2024-06-07 11:22:40,181|Defect Ratio: 1387.52
+2024-06-07 11:22:40,683|Class: D43, Confidence: 0.30, ADD:242.00
+Defect Ratio: 1338.77
+2024-06-07 11:22:41,185|Defect Ratio: 1389.08
+2024-06-07 11:22:41,721|Class: D43, Confidence: 0.26, ADD:243.00
+Defect Ratio: 1324.40
+2024-06-07 11:22:42,223|Defect Ratio: 1392.81
+2024-06-07 11:22:42,224|Defect Ratio: 1391.93
+2024-06-07 11:22:42,726|Class: D43, Confidence: 0.29, ADD:244.00
+Defect Ratio: 1325.20
+2024-06-07 11:22:43,228|Defect Ratio: 1399.11
+2024-06-07 11:22:43,730|Class: D43, Confidence: 0.25, ADD:245.00
+Defect Ratio: 1315.99
+2024-06-07 11:22:44,231|Class: D43, Confidence: 0.27, ADD:246.00
+Defect Ratio: 1358.46
+2024-06-07 11:22:44,734|Class: D20, Confidence: 0.35, ADD:247.00
+Class: D43, Confidence: 0.28, ADD:248.00
+Defect Ratio: 1358.15
+2024-06-07 11:22:45,240|Defect Ratio: 1432.00
+2024-06-07 11:22:45,741|Defect Ratio: 1445.27
+2024-06-07 11:22:46,243|Class: D43, Confidence: 0.32, ADD:249.00
+Defect Ratio: 1381.05
+2024-06-07 11:22:46,785|Class: D43, Confidence: 0.33, ADD:250.00
+Defect Ratio: 1360.42
+2024-06-07 11:22:47,287|Class: D43, Confidence: 0.28, ADD:251.00
+Defect Ratio: 1368.71
+2024-06-07 11:22:47,288|Class: D43, Confidence: 0.28, ADD:252.00
+Defect Ratio: 1380.26
+2024-06-07 11:22:47,789|Class: D43, Confidence: 0.29, ADD:253.00
+Defect Ratio: 1380.45
+2024-06-07 11:22:48,292|Class: D43, Confidence: 0.34, ADD:254.00
+Defect Ratio: 1408.06
+2024-06-07 11:22:48,793|Defect Ratio: 1454.09
+2024-06-07 11:22:49,296|Defect Ratio: 1448.27
+2024-06-07 11:22:49,798|Class: D43, Confidence: 0.28, ADD:255.00
+Defect Ratio: 1326.07
+2024-06-07 11:51:09,123|Class: D00, Confidence: 0.41, ADD:1.00
+Defect Ratio: 2.66
+2024-06-07 11:51:10,151|Class: D00, Confidence: 0.42, ADD:2.00
+Defect Ratio: 10.53
+2024-06-07 11:51:10,653|Class: D00, Confidence: 0.40, ADD:3.00
+Defect Ratio: 15.49
+2024-06-07 11:51:11,160|Class: D00, Confidence: 0.40, ADD:4.00
+Defect Ratio: 20.55
+2024-06-07 11:51:11,662|Class: D00, Confidence: 0.39, ADD:5.00
+Defect Ratio: 25.91
+2024-06-07 11:51:12,165|Class: D20, Confidence: 0.28, ADD:6.00
+Defect Ratio: 31.08
+2024-06-07 11:51:12,712|Defect Ratio: 33.18
+2024-06-07 11:51:13,214|Class: D20, Confidence: 0.43, ADD:7.00
+Defect Ratio: 36.63
+2024-06-07 11:51:13,717|Class: D20, Confidence: 0.53, ADD:8.00
+Defect Ratio: 42.85
+2024-06-07 11:51:13,718|Class: D20, Confidence: 0.52, ADD:9.00
+Defect Ratio: 47.36
+2024-06-07 11:51:14,220|Class: D20, Confidence: 0.50, ADD:10.00
+Defect Ratio: 48.35
+2024-06-07 11:51:14,726|Defect Ratio: 55.74
+2024-06-07 11:51:17,428|Class: D20, Confidence: 0.44, ADD:11.00
+Defect Ratio: 5.68
+2024-06-07 11:51:17,938|Class: D20, Confidence: 0.38, ADD:12.00
+Defect Ratio: 58.05
+2024-06-07 11:51:18,451|Class: D20, Confidence: 0.61, ADD:13.00
+Defect Ratio: 66.45
+2024-06-07 11:51:18,956|Defect Ratio: 71.76
+2024-06-07 11:51:19,466|Class: D20, Confidence: 0.48, ADD:14.00
+Defect Ratio: 71.56
+2024-06-07 11:51:19,969|Class: D20, Confidence: 0.28, ADD:15.00
+Defect Ratio: 81.23
+2024-06-07 11:51:19,971|Defect Ratio: 85.39
+2024-06-07 11:51:20,473|Class: D00, Confidence: 0.28, ADD:16.00
+Defect Ratio: 84.25
+2024-06-07 11:51:20,975|Class: D20, Confidence: 0.30, ADD:17.00
+Defect Ratio: 85.22
+2024-06-07 11:51:21,478|Class: D20, Confidence: 0.43, ADD:18.00
+Class: D00, Confidence: 0.30, ADD:19.00
+Defect Ratio: 80.00
+2024-06-07 11:51:21,981|Class: D00, Confidence: 0.50, ADD:20.00
+Class: D20, Confidence: 0.34, ADD:21.00
+Defect Ratio: 110.65
+2024-06-07 11:51:22,484|Class: D00, Confidence: 0.38, ADD:22.00
+Class: D10, Confidence: 0.36, ADD:23.00
+Class: D20, Confidence: 0.31, ADD:24.00
+Defect Ratio: 121.67
+2024-06-07 11:51:22,989|Class: D00, Confidence: 0.50, ADD:25.00
+Defect Ratio: 129.26
+2024-06-07 11:51:23,491|Defect Ratio: 142.30
+2024-06-07 11:51:23,993|Defect Ratio: 134.27
+2024-06-07 11:51:24,495|Class: D40, Confidence: 0.31, ADD:26.00
+Defect Ratio: 138.92
+2024-06-07 11:51:24,998|Class: D00, Confidence: 0.47, ADD:27.00
+Defect Ratio: 135.94
+2024-06-07 11:51:25,500|Class: D00, Confidence: 0.52, ADD:28.00
+Class: D00, Confidence: 0.47, ADD:29.00
+Class: D00, Confidence: 0.34, ADD:30.00
+Class: D10, Confidence: 0.32, ADD:31.00
+Defect Ratio: 156.45
+2024-06-07 11:51:26,003|Class: D20, Confidence: 0.47, ADD:32.00
+Defect Ratio: 175.24
+2024-06-07 11:51:26,507|Class: D20, Confidence: 0.30, ADD:33.00
+Defect Ratio: 171.59
+2024-06-07 11:51:27,009|Class: D10, Confidence: 0.34, ADD:34.00
+Defect Ratio: 178.53
+2024-06-07 11:51:27,512|Class: D20, Confidence: 0.48, ADD:35.00
+Class: D10, Confidence: 0.41, ADD:36.00
+Defect Ratio: 194.84
+2024-06-07 11:51:28,018|Class: D20, Confidence: 0.33, ADD:37.00
+Class: D10, Confidence: 0.27, ADD:38.00
+Defect Ratio: 201.25
+2024-06-07 11:51:28,526|Class: D20, Confidence: 0.29, ADD:39.00
+Defect Ratio: 202.65
+2024-06-07 11:51:29,028|Defect Ratio: 216.64
+2024-06-07 11:51:29,590|Defect Ratio: 216.76
+2024-06-07 11:51:30,092|Defect Ratio: 220.83
+2024-06-07 11:51:30,094|Defect Ratio: 221.22
+2024-06-07 11:51:30,596|Defect Ratio: 214.13
+2024-06-07 11:51:31,098|Defect Ratio: 219.19
+2024-06-07 11:51:31,599|Class: D00, Confidence: 0.52, ADD:40.00
+Defect Ratio: 212.61
+2024-06-07 11:51:32,103|Class: D00, Confidence: 0.54, ADD:41.00
+Class: D20, Confidence: 0.29, ADD:42.00
+Defect Ratio: 217.68
+2024-06-07 11:51:32,605|Class: D20, Confidence: 0.39, ADD:43.00
+Class: D00, Confidence: 0.39, ADD:44.00
+Defect Ratio: 229.18
+2024-06-07 11:51:33,107|Class: D20, Confidence: 0.40, ADD:45.00
+Class: D00, Confidence: 0.32, ADD:46.00
+Defect Ratio: 230.84
+2024-06-07 11:51:33,609|Class: D20, Confidence: 0.48, ADD:47.00
+Class: D00, Confidence: 0.38, ADD:48.00
+Class: D10, Confidence: 0.31, ADD:49.00
+Defect Ratio: 250.82
+2024-06-07 11:51:34,112|Class: D00, Confidence: 0.36, ADD:50.00
+Defect Ratio: 258.39
+2024-06-07 11:51:34,615|Defect Ratio: 283.17
+2024-06-07 11:51:35,118|Defect Ratio: 278.62
+2024-06-07 11:51:35,620|Defect Ratio: 272.87
+2024-06-07 11:51:36,122|Class: D00, Confidence: 0.48, ADD:51.00
+Defect Ratio: 262.29
+2024-06-07 11:51:36,626|Class: D20, Confidence: 0.37, ADD:52.00
+Class: D00, Confidence: 0.32, ADD:53.00
+Defect Ratio: 280.27
+2024-06-07 11:51:37,132|Class: D00, Confidence: 0.34, ADD:54.00
+Class: D20, Confidence: 0.26, ADD:55.00
+Defect Ratio: 282.41
+2024-06-07 11:51:37,634|Class: D00, Confidence: 0.36, ADD:56.00
+Defect Ratio: 291.90
+2024-06-07 11:51:38,138|Class: D00, Confidence: 0.52, ADD:57.00
+Defect Ratio: 301.25
+2024-06-07 11:51:38,642|Class: D00, Confidence: 0.32, ADD:58.00
+Defect Ratio: 293.56
+2024-06-07 11:51:39,145|Defect Ratio: 327.15
+2024-06-07 11:51:39,716|Defect Ratio: 312.86
+2024-06-07 11:51:40,237|Defect Ratio: 311.31
+2024-06-07 11:51:40,742|Defect Ratio: 317.18
+2024-06-07 11:51:41,243|Defect Ratio: 326.90
+2024-06-07 11:51:41,745|Defect Ratio: 324.66
+2024-06-07 11:51:41,748|Defect Ratio: 327.36
+2024-06-07 11:51:42,250|Defect Ratio: 334.03
+2024-06-07 11:51:42,752|Defect Ratio: 328.74
+2024-06-07 11:51:43,255|Defect Ratio: 329.92
+2024-06-07 11:51:43,758|Defect Ratio: 329.76
+2024-06-07 11:51:44,259|Defect Ratio: 325.14
+2024-06-07 11:51:44,763|Defect Ratio: 326.99
+2024-06-07 11:51:45,265|Defect Ratio: 334.46
+2024-06-07 11:51:45,842|Defect Ratio: 326.18
+2024-06-07 11:51:46,344|Defect Ratio: 310.95
+2024-06-07 11:51:46,346|Defect Ratio: 326.75
+2024-06-07 11:51:46,853|Defect Ratio: 327.31
+2024-06-07 11:51:47,363|Defect Ratio: 325.49
+2024-06-07 11:51:47,865|Defect Ratio: 329.91
+2024-06-07 11:51:48,868|Class: D00, Confidence: 0.56, ADD:59.00
+Defect Ratio: 304.34
+2024-06-07 11:51:48,871|Class: D00, Confidence: 0.41, ADD:60.00
+Defect Ratio: 306.06
+2024-06-07 11:51:49,373|Class: D20, Confidence: 0.37, ADD:61.00
+Defect Ratio: 293.99
+2024-06-07 11:51:50,384|Defect Ratio: 326.37
+2024-06-07 11:51:50,385|Class: D20, Confidence: 0.53, ADD:62.00
+Defect Ratio: 330.57
+2024-06-07 11:51:51,388|Class: D20, Confidence: 0.36, ADD:63.00
+Defect Ratio: 320.56
+2024-06-07 11:51:51,891|Class: D20, Confidence: 0.48, ADD:64.00
+Defect Ratio: 320.63
+2024-06-07 11:51:52,413|Class: D00, Confidence: 0.40, ADD:65.00
+Class: D20, Confidence: 0.38, ADD:66.00
+Defect Ratio: 295.93
+2024-06-07 11:51:52,961|Class: D10, Confidence: 0.47, ADD:67.00
+Class: D10, Confidence: 0.32, ADD:68.00
+Class: D00, Confidence: 0.28, ADD:69.00
+Defect Ratio: 316.81
+2024-06-07 11:51:53,481|Class: D00, Confidence: 0.46, ADD:70.00
+Class: D20, Confidence: 0.27, ADD:71.00
+Defect Ratio: 342.89
+2024-06-07 11:51:53,988|Class: D00, Confidence: 0.62, ADD:72.00
+Defect Ratio: 360.10
+2024-06-07 11:51:54,494|Defect Ratio: 393.37
+2024-06-07 11:51:55,007|Class: D20, Confidence: 0.33, ADD:73.00
+Defect Ratio: 378.62
+2024-06-07 11:51:55,509|Class: D20, Confidence: 0.30, ADD:74.00
+Defect Ratio: 346.33
+2024-06-07 11:51:56,010|Class: D20, Confidence: 0.33, ADD:75.00
+Defect Ratio: 379.87
+2024-06-07 11:51:56,532|Class: D20, Confidence: 0.39, ADD:76.00
+Defect Ratio: 383.83
+2024-06-07 11:52:00,541|Class: D20, Confidence: 0.40, ADD:77.00
+Class: D00, Confidence: 0.28, ADD:78.00
+Defect Ratio: 237.73
+2024-06-07 14:21:48,687|Class: D10, Confidence: 0.26, ADD:1.00
+Defect Ratio: 2.56
+2024-06-07 14:21:49,706|Defect Ratio: 5.62
+2024-06-07 14:21:50,208|Class: D10, Confidence: 0.27, ADD:2.00
+Defect Ratio: 9.79
+2024-06-07 14:21:50,710|Class: D10, Confidence: 0.30, ADD:3.00
+Defect Ratio: 15.44
+2024-06-07 14:21:51,211|Class: D10, Confidence: 0.28, ADD:4.00
+Class: D50, Confidence: 0.27, ADD:5.00
+Defect Ratio: 24.24
+2024-06-07 14:21:51,713|Defect Ratio: 28.60
+2024-06-07 14:21:52,216|Defect Ratio: 28.65
+2024-06-07 14:21:52,718|Defect Ratio: 28.05
+2024-06-07 14:21:53,220|Class: D00, Confidence: 0.34, ADD:6.00
+Defect Ratio: 31.38
+2024-06-07 14:21:53,817|Class: D00, Confidence: 0.27, ADD:7.00
+Defect Ratio: 33.78
+2024-06-07 14:21:54,335|Class: D00, Confidence: 0.52, ADD:8.00
+Class: D00, Confidence: 0.39, ADD:9.00
+Defect Ratio: 44.17
+2024-06-07 14:21:54,845|Class: D00, Confidence: 0.27, ADD:10.00
+Defect Ratio: 51.47
+2024-06-07 14:21:55,347|Defect Ratio: 56.30
+2024-06-07 14:21:55,849|Defect Ratio: 55.76
+2024-06-07 14:21:56,395|Class: D20, Confidence: 0.33, ADD:11.00
+Defect Ratio: 57.71
+2024-06-07 14:21:56,898|Defect Ratio: 55.82
+2024-06-07 14:21:57,402|Defect Ratio: 60.50
+2024-06-07 14:21:57,909|Class: D00, Confidence: 0.28, ADD:12.00
+Class: D10, Confidence: 0.27, ADD:13.00
+Defect Ratio: 64.41
+2024-06-07 14:21:58,428|Class: D20, Confidence: 0.32, ADD:14.00
+Defect Ratio: 71.13
+2024-06-07 14:21:58,930|Defect Ratio: 75.78
+2024-06-07 14:21:59,457|Class: D20, Confidence: 0.41, ADD:15.00
+Defect Ratio: 76.26
+2024-06-07 14:21:59,959|Class: D20, Confidence: 0.30, ADD:16.00
+Defect Ratio: 84.21
+2024-06-07 14:22:00,461|Defect Ratio: 81.10
+2024-06-07 14:22:00,967|Class: D20, Confidence: 0.33, ADD:17.00
+Defect Ratio: 84.08
+2024-06-07 14:22:01,472|Class: D20, Confidence: 0.53, ADD:18.00
+Defect Ratio: 86.19
+2024-06-07 14:22:01,987|Class: D20, Confidence: 0.50, ADD:19.00
+Defect Ratio: 96.33
+2024-06-07 14:22:02,502|Class: D20, Confidence: 0.50, ADD:20.00
+Defect Ratio: 97.98
+2024-06-07 14:22:03,006|Class: D20, Confidence: 0.48, ADD:21.00
+Defect Ratio: 108.49
+2024-06-07 14:22:03,508|Class: D20, Confidence: 0.37, ADD:22.00
+Defect Ratio: 114.32
+2024-06-07 14:22:04,054|Class: D20, Confidence: 0.46, ADD:23.00
+Defect Ratio: 116.78
+2024-06-07 14:22:04,556|Defect Ratio: 126.56
+2024-06-07 14:22:05,058|Defect Ratio: 130.30
+2024-06-07 14:22:05,561|Defect Ratio: 130.19
+2024-06-07 14:22:06,563|Class: D00, Confidence: 0.40, ADD:24.00
+Defect Ratio: 117.96
+2024-06-07 14:22:07,083|Defect Ratio: 136.53
+2024-06-07 14:22:07,085|Defect Ratio: 134.41
+2024-06-07 14:22:07,587|Class: D20, Confidence: 0.26, ADD:25.00
+Defect Ratio: 123.33
+2024-06-07 14:22:08,590|Class: D44, Confidence: 0.32, ADD:26.00
+Defect Ratio: 126.40
+2024-06-07 14:22:09,100|Defect Ratio: 144.65
+2024-06-07 14:22:09,104|Defect Ratio: 137.62
+2024-06-07 14:22:10,110|Class: D20, Confidence: 0.40, ADD:27.00
+Defect Ratio: 125.58
+2024-06-07 14:22:10,639|Defect Ratio: 149.12
+2024-06-07 14:22:11,172|Defect Ratio: 145.28
+2024-06-07 14:22:11,681|Defect Ratio: 149.31
+2024-06-07 14:22:12,189|Defect Ratio: 144.85
+2024-06-07 14:22:12,705|Defect Ratio: 150.49
+2024-06-07 14:22:13,207|Defect Ratio: 148.48
+2024-06-07 14:22:13,711|Defect Ratio: 148.26
+2024-06-07 14:22:14,214|Defect Ratio: 147.95
+2024-06-07 14:22:14,721|Defect Ratio: 151.95
+2024-06-07 14:22:15,241|Class: D20, Confidence: 0.44, ADD:28.00
+Defect Ratio: 136.34
+2024-06-07 14:22:15,752|Defect Ratio: 157.46
+2024-06-07 14:22:16,254|Defect Ratio: 155.10
+2024-06-07 14:22:16,779|Defect Ratio: 148.42
+2024-06-07 14:22:17,286|Class: D20, Confidence: 0.31, ADD:29.00
+Defect Ratio: 141.06
+2024-06-07 14:22:17,810|Class: D20, Confidence: 0.45, ADD:30.00
+Defect Ratio: 154.93
+2024-06-07 14:22:18,329|Class: D20, Confidence: 0.37, ADD:31.00
+Defect Ratio: 142.00
+2024-06-07 14:22:18,833|Class: D20, Confidence: 0.29, ADD:32.00
+Defect Ratio: 159.87
+2024-06-07 14:22:19,362|Defect Ratio: 179.14
+2024-06-07 14:22:19,929|Class: D20, Confidence: 0.38, ADD:33.00
+Defect Ratio: 158.60
+2024-06-07 14:22:20,473|Class: D20, Confidence: 0.25, ADD:34.00
+Defect Ratio: 156.79
+2024-06-07 14:22:21,034|Defect Ratio: 180.59
+2024-06-07 14:22:21,537|Class: D00, Confidence: 0.28, ADD:35.00
+Defect Ratio: 163.89
+2024-06-07 14:22:22,084|Defect Ratio: 179.20
+2024-06-07 14:22:22,588|Defect Ratio: 192.99
+2024-06-07 14:22:23,095|Defect Ratio: 192.29
+2024-06-07 14:22:23,601|Defect Ratio: 195.44
+2024-06-07 14:22:24,104|Defect Ratio: 197.59
+2024-06-07 14:22:24,606|Defect Ratio: 190.72
+2024-06-07 14:22:25,108|Defect Ratio: 192.07
+2024-06-07 14:22:25,611|Defect Ratio: 194.33
+2024-06-07 14:22:26,117|Defect Ratio: 192.01
+2024-06-07 14:22:26,619|Class: D20, Confidence: 0.37, ADD:36.00
+Defect Ratio: 185.40
+2024-06-07 14:22:26,620|Defect Ratio: 205.60
+2024-06-07 14:22:27,122|Class: D20, Confidence: 0.25, ADD:37.00
+Defect Ratio: 193.72
+2024-06-07 14:22:27,625|Class: D20, Confidence: 0.37, ADD:38.00
+Defect Ratio: 185.90
+2024-06-07 14:22:28,628|Class: D20, Confidence: 0.38, ADD:39.00
+Defect Ratio: 199.37
+2024-06-07 14:22:29,148|Class: D00, Confidence: 0.41, ADD:40.00
+Defect Ratio: 210.59
+2024-06-07 14:22:29,649|Defect Ratio: 216.62
+2024-06-07 14:22:30,152|Defect Ratio: 228.07
+2024-06-07 14:22:30,654|Defect Ratio: 220.83
+2024-06-07 14:22:30,655|Defect Ratio: 221.96
+2024-06-07 14:22:31,156|Defect Ratio: 221.54
+2024-06-07 14:22:32,159|Class: D44, Confidence: 0.29, ADD:41.00
+Defect Ratio: 198.68
+2024-06-07 14:22:32,160|Defect Ratio: 222.14
+2024-06-07 14:22:33,166|Class: D20, Confidence: 0.30, ADD:42.00
+Defect Ratio: 211.13
+2024-06-07 14:22:33,674|Class: D20, Confidence: 0.42, ADD:43.00
+Defect Ratio: 212.69
+2024-06-07 14:22:34,204|Class: D20, Confidence: 0.46, ADD:44.00
+Defect Ratio: 223.06
+2024-06-07 14:22:34,731|Class: D20, Confidence: 0.35, ADD:45.00
+Class: D00, Confidence: 0.27, ADD:46.00
+Defect Ratio: 217.52
+2024-06-07 14:22:35,274|Defect Ratio: 226.83
+2024-06-07 14:22:35,827|Class: D20, Confidence: 0.28, ADD:47.00
+Defect Ratio: 228.32
+2024-06-07 14:22:36,334|Class: D20, Confidence: 0.25, ADD:48.00
+Defect Ratio: 235.99
+2024-06-07 14:22:36,841|Class: D20, Confidence: 0.26, ADD:49.00
+Defect Ratio: 242.34
+2024-06-07 14:22:37,343|Defect Ratio: 273.76
+2024-06-07 14:22:37,846|Defect Ratio: 271.09
+2024-06-07 14:22:38,348|Defect Ratio: 275.45
+2024-06-07 14:22:38,850|Defect Ratio: 277.09
+2024-06-07 14:22:39,353|Class: D20, Confidence: 0.31, ADD:50.00
+Defect Ratio: 235.69
+2024-06-07 14:22:39,854|Class: D20, Confidence: 0.45, ADD:51.00
+Defect Ratio: 253.30
+2024-06-07 14:22:40,358|Class: D40, Confidence: 0.30, ADD:52.00
+Class: D10, Confidence: 0.27, ADD:53.00
+Defect Ratio: 274.38
+2024-06-07 14:22:40,860|Class: D20, Confidence: 0.32, ADD:54.00
+Defect Ratio: 273.55
+2024-06-07 14:22:41,363|Defect Ratio: 301.09
+2024-06-07 14:22:41,370|Defect Ratio: 300.93
+2024-06-07 14:22:42,373|Class: D00, Confidence: 0.41, ADD:55.00
+Defect Ratio: 287.25
+2024-06-07 14:22:42,877|Class: D00, Confidence: 0.33, ADD:56.00
+Defect Ratio: 282.95
+2024-06-07 14:22:43,393|Class: D00, Confidence: 0.56, ADD:57.00
+Defect Ratio: 283.19
+2024-06-07 14:22:43,911|Class: D20, Confidence: 0.32, ADD:58.00
+Defect Ratio: 286.73
+2024-06-07 14:22:44,479|Class: D20, Confidence: 0.35, ADD:59.00
+Defect Ratio: 297.59
+2024-06-07 14:22:44,986|Defect Ratio: 307.61
+2024-06-07 14:22:45,496|Defect Ratio: 322.49
+2024-06-07 14:22:46,013|Defect Ratio: 327.49
+2024-06-07 14:22:46,668|Class: D20, Confidence: 0.42, ADD:60.00
+Defect Ratio: 311.06
+2024-06-07 14:44:25,849|Class: D20, Confidence: 0.32, ADD:1.00
+Defect Ratio: 1.15
+2024-06-07 14:44:25,866|Class: D20, Confidence: 0.50, ADD:2.00
+Defect Ratio: 10.53
+2024-06-07 14:44:26,370|Class: D20, Confidence: 0.64, ADD:3.00
+Defect Ratio: 16.69
+2024-06-07 14:44:26,872|Class: D20, Confidence: 0.55, ADD:4.00
+Defect Ratio: 22.13
+2024-06-07 14:44:27,374|Defect Ratio: 23.43
+2024-06-07 14:44:27,876|Defect Ratio: 23.55
+2024-06-07 14:44:28,435|Defect Ratio: 23.18
+2024-06-07 14:44:28,946|Defect Ratio: 23.34
+2024-06-07 14:44:28,947|Defect Ratio: 23.53
+2024-06-07 14:44:29,449|Defect Ratio: 23.56
+2024-06-07 14:44:29,952|Defect Ratio: 23.26
+2024-06-07 14:44:30,453|Class: D20, Confidence: 0.36, ADD:5.00
+Defect Ratio: 27.16
+2024-06-07 14:44:30,956|Class: D20, Confidence: 0.67, ADD:6.00
+Defect Ratio: 33.06
+2024-06-07 14:44:31,458|Class: D20, Confidence: 0.39, ADD:7.00
+Defect Ratio: 38.46
+2024-06-07 14:44:32,018|Defect Ratio: 39.55
+2024-06-07 14:44:32,520|Class: D20, Confidence: 0.37, ADD:8.00
+Defect Ratio: 43.55
+2024-06-07 14:44:32,521|Defect Ratio: 46.75
+2024-06-07 14:44:33,022|Defect Ratio: 46.93
+2024-06-07 14:44:33,524|Defect Ratio: 46.84
+2024-06-07 14:44:34,027|Defect Ratio: 46.78
+2024-06-07 14:44:34,529|Defect Ratio: 46.30
+2024-06-07 14:44:35,108|Defect Ratio: 44.73
+2024-06-07 14:44:35,610|Defect Ratio: 46.04
+2024-06-07 14:44:35,611|Defect Ratio: 46.57
+2024-06-07 14:44:36,113|Defect Ratio: 46.78
+2024-06-07 14:44:36,615|Defect Ratio: 46.84
+2024-06-07 14:44:51,781|Defect Ratio: 13.95
+2024-06-07 14:45:03,892|Defect Ratio: 20.31
+2024-06-07 14:45:04,402|Defect Ratio: 46.30
+2024-06-07 14:45:04,403|Defect Ratio: 47.06
+2024-06-07 14:45:04,904|Defect Ratio: 46.68
+2024-06-07 14:45:05,406|Defect Ratio: 46.50
+2024-06-07 14:45:05,908|Defect Ratio: 47.27
+2024-06-07 14:45:06,410|Defect Ratio: 47.33
+2024-06-07 14:45:06,963|Defect Ratio: 46.40
+2024-06-07 14:45:07,465|Defect Ratio: 46.61
+2024-06-07 14:45:07,465|Defect Ratio: 46.99
+2024-06-07 14:45:07,967|Class: D20, Confidence: 0.66, ADD:9.00
+Defect Ratio: 49.34
+2024-06-07 14:45:08,468|Defect Ratio: 53.05
+2024-06-07 14:45:08,970|Class: D20, Confidence: 0.51, ADD:10.00
+Defect Ratio: 55.50
+2024-06-07 14:45:09,472|Defect Ratio: 59.23
+2024-06-07 14:45:10,048|Defect Ratio: 58.37
+2024-06-07 14:45:10,550|Defect Ratio: 58.08
+2024-06-07 14:45:10,551|Defect Ratio: 58.78
+2024-06-07 14:45:11,052|Defect Ratio: 58.45
+2024-06-07 14:45:11,554|Defect Ratio: 58.01
+2024-06-07 14:45:12,056|Defect Ratio: 58.71
+2024-06-07 14:45:12,558|Defect Ratio: 58.50
+2024-06-07 14:45:13,125|Defect Ratio: 57.87
+2024-06-07 14:45:13,627|Class: D20, Confidence: 0.41, ADD:11.00
+Defect Ratio: 60.37
+2024-06-07 14:45:14,129|Class: D20, Confidence: 0.52, ADD:12.00
+Defect Ratio: 66.35
+2024-06-07 14:45:14,131|Defect Ratio: 70.65
+2024-06-07 14:45:14,633|Defect Ratio: 70.12
+2024-06-07 14:45:15,135|Defect Ratio: 70.49
+2024-06-07 14:45:15,636|Defect Ratio: 71.27
+2024-06-07 14:45:16,197|Defect Ratio: 69.60
+2024-06-07 14:45:16,698|Defect Ratio: 69.50
+2024-06-07 14:45:16,700|Defect Ratio: 70.28
+2024-06-07 14:45:17,202|Defect Ratio: 69.94
+2024-06-07 14:45:17,720|Defect Ratio: 70.22
+2024-06-07 14:45:18,222|Defect Ratio: 70.72
+2024-06-07 14:45:18,724|Defect Ratio: 69.49
+2024-06-07 14:45:19,727|Defect Ratio: 70.43
+2024-06-07 14:45:19,728|Defect Ratio: 70.51
+2024-06-07 14:45:20,229|Defect Ratio: 70.25
+2024-06-07 14:45:20,750|Class: D20, Confidence: 0.35, ADD:13.00
+Defect Ratio: 71.36
+2024-06-07 14:45:21,252|Defect Ratio: 76.04
+2024-06-07 14:45:21,755|Defect Ratio: 77.01
+2024-06-07 14:45:22,335|Defect Ratio: 76.46
+2024-06-07 14:45:22,847|Defect Ratio: 75.97
+2024-06-07 14:45:23,348|Defect Ratio: 75.79
+2024-06-07 14:45:23,850|Defect Ratio: 76.26
+2024-06-07 14:45:24,352|Defect Ratio: 76.34
+2024-06-07 14:45:24,353|Defect Ratio: 76.37
+2024-06-07 14:45:24,855|Defect Ratio: 76.68
+2024-06-07 14:45:25,357|Defect Ratio: 76.34
+2024-06-07 14:45:25,859|Defect Ratio: 76.57
+2024-06-07 14:45:26,416|Defect Ratio: 75.13
+2024-06-07 14:45:26,917|Defect Ratio: 75.94
+2024-06-07 14:45:26,918|Defect Ratio: 75.28
+2024-06-07 14:45:27,419|Defect Ratio: 76.05
+2024-06-07 14:45:27,922|Defect Ratio: 76.37
+2024-06-07 14:45:28,424|Defect Ratio: 76.60
+2024-06-07 14:45:28,926|Defect Ratio: 76.22
+2024-06-07 14:45:29,445|Defect Ratio: 74.65
+2024-06-07 14:45:29,946|Defect Ratio: 76.06
+2024-06-07 14:45:29,947|Defect Ratio: 76.30
+2024-06-07 14:45:30,448|Defect Ratio: 76.28
+2024-06-07 14:45:30,952|Defect Ratio: 76.14
+2024-06-07 14:45:31,454|Class: D50, Confidence: 0.55, ADD:14.00
+Defect Ratio: 78.91
+2024-06-07 14:45:32,032|Defect Ratio: 82.07
+2024-06-07 14:45:32,534|Defect Ratio: 79.94
+2024-06-07 14:45:32,535|Defect Ratio: 82.53
+2024-06-07 14:45:33,037|Defect Ratio: 82.19
+2024-06-07 14:45:33,539|Class: D20, Confidence: 0.35, ADD:15.00
+Defect Ratio: 82.77
+2024-06-07 14:45:34,041|Class: D20, Confidence: 0.34, ADD:16.00
+Defect Ratio: 86.86
+2024-06-07 14:45:34,544|Defect Ratio: 94.45
+2024-06-07 14:45:35,120|Defect Ratio: 92.93
+2024-06-07 14:45:35,622|Defect Ratio: 92.45
+2024-06-07 14:45:35,623|Defect Ratio: 93.56
+2024-06-07 14:45:36,125|Defect Ratio: 93.39
+2024-06-07 14:45:36,628|Defect Ratio: 93.80
+2024-06-07 14:45:37,131|Defect Ratio: 94.28
+2024-06-07 14:45:37,632|Defect Ratio: 95.12
+2024-06-07 14:45:38,183|Defect Ratio: 92.17
+2024-06-07 14:45:38,684|Defect Ratio: 92.38
+2024-06-07 14:45:38,686|Defect Ratio: 94.05
+2024-06-07 14:45:39,187|Defect Ratio: 93.26
+2024-06-07 14:45:39,689|Defect Ratio: 93.77
+2024-06-07 14:45:40,191|Defect Ratio: 92.45
+2024-06-07 14:45:40,693|Class: D20, Confidence: 0.66, ADD:17.00
+Defect Ratio: 93.80
+2024-06-07 14:45:41,247|Class: D20, Confidence: 0.76, ADD:18.00
+Defect Ratio: 97.80
+2024-06-07 14:45:41,748|Class: D20, Confidence: 0.80, ADD:19.00
+Defect Ratio: 103.60
+2024-06-07 14:45:41,750|Class: D20, Confidence: 0.56, ADD:20.00
+Defect Ratio: 110.01
+2024-06-07 14:45:42,252|Defect Ratio: 116.11
+2024-06-07 14:45:42,755|Defect Ratio: 117.58
+2024-06-07 14:45:43,258|Defect Ratio: 117.41
+2024-06-07 14:45:43,760|Defect Ratio: 117.66
+2024-06-07 14:45:44,328|Defect Ratio: 116.02
+2024-06-07 14:45:44,830|Defect Ratio: 114.31
+2024-06-07 14:45:44,832|Class: D20, Confidence: 0.40, ADD:21.00
+Defect Ratio: 115.40
+2024-06-07 14:45:45,333|Defect Ratio: 122.92
+2024-06-07 14:45:45,836|Class: D20, Confidence: 0.39, ADD:22.00
+Class: D20, Confidence: 0.27, ADD:23.00
+Defect Ratio: 112.34
+2024-06-07 14:45:46,339|Class: D20, Confidence: 0.28, ADD:24.00
+Defect Ratio: 119.05
+2024-06-07 14:45:46,841|Defect Ratio: 141.08
+2024-06-07 14:45:47,343|Class: D20, Confidence: 0.58, ADD:25.00
+Defect Ratio: 140.52
+2024-06-07 14:45:47,917|Class: D20, Confidence: 0.39, ADD:26.00
+Defect Ratio: 142.52
+2024-06-07 14:45:48,420|Class: D20, Confidence: 0.27, ADD:27.00
+Defect Ratio: 146.08
+2024-06-07 14:45:48,421|Class: D20, Confidence: 0.33, ADD:28.00
+Defect Ratio: 155.28
+2024-06-07 14:45:48,922|Defect Ratio: 163.29
+2024-06-07 14:45:49,425|Defect Ratio: 161.95
+2024-06-07 14:45:49,927|Defect Ratio: 163.12
+2024-06-07 14:45:50,428|Defect Ratio: 162.67
+2024-06-07 14:45:50,930|Defect Ratio: 164.60
+2024-06-07 14:45:53,936|Defect Ratio: 121.42
